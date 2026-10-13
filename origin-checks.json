@@ -1,0 +1,4247 @@
+[
+  {
+    "origin": "http://DianYingim.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.558
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.287
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://api.cntv.cn/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.122,
+        "final_host": "api.cntv.cn"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.024,
+        "final_host": "api.cntv.cn"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://api2.rinhome.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.483
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.064
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://baobab.kaiyanapp.com:80/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.036,
+        "final_host": "baobab.kaiyanapp.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.075,
+        "final_host": "baobab.kaiyanapp.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://cj.ffzyapi.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.727,
+        "final_host": "cj.ffzyapi.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.019,
+        "final_host": "cj.ffzyapi.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://cms.cttv.vip/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.117
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://dytt996.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.696
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://fabu.timiys.vip/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.063
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://fagmn.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.58,
+        "final_host": "www.fagmn.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.122,
+        "final_host": "www.fagmn.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://live.yj1211.work/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.06
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://m.6yueting.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.035,
+        "final_host": "www.m.6yueting.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.377,
+        "final_host": "www.m.6yueting.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://m.dj0898.com/",
+    "attempts": [
+      {
+        "http_status": 503,
+        "seconds": 1.447,
+        "final_host": "m.dj0898.com"
+      },
+      {
+        "http_status": 503,
+        "seconds": 0.062,
+        "final_host": "m.dj0898.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://m.ychy.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.194
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.003
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://m.ysxs8.vip/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.069
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.003
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://shapp.us/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.338,
+        "final_host": "shapp.us"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.711,
+        "final_host": "shapp.us"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://tv.haoqu99.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.362,
+        "final_host": "tv.haoqu99.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.357,
+        "final_host": "tv.haoqu99.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://v.a8.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.087,
+        "final_host": "v.a8.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.12,
+        "final_host": "v.a8.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://vipcms.lyyytv.cn/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 1.079,
+        "final_host": "vipcms.lyyytv.cn"
+      },
+      {
+        "http_status": 403,
+        "seconds": 0.1,
+        "final_host": "vipcms.lyyytv.cn"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.310.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.043
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.40yb.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.688,
+        "final_host": "www.40yb.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.36,
+        "final_host": "www.40yb.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.88dmw.com/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 5.728
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 4.634
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.88kanqiu.bar/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.584,
+        "final_host": "www.88kanqiu.bar"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.793,
+        "final_host": "www.88kanqiu.bar"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.88kanqiu.cc/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 4.686,
+        "final_host": "www.88kanqiu.us"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.622,
+        "final_host": "www.88kanqiu.us"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.8hysw.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.56,
+        "final_host": "www.8hysw.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.316,
+        "final_host": "www.8hysw.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.bahaoyy.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.766,
+        "final_host": "www.bahaoyy.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.316,
+        "final_host": "www.bahaoyy.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.djuu.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.669,
+        "final_host": "www.djuu.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.117,
+        "final_host": "www.djuu.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.dmand5.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.151,
+        "final_host": "www.dmand5.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.518,
+        "final_host": "www.dmand5.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.dmd85.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.929
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.004
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.dydhhy.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.354,
+        "final_host": "www.dydhhy.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 2.578,
+        "final_host": "www.dydhhy.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.guangbomi.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.429,
+        "final_host": "guangbomi.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.219,
+        "final_host": "guangbomi.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.hongbaohk.com/",
+    "attempts": [
+      {
+        "http_status": 503,
+        "seconds": 1.02,
+        "final_host": "www.hongbaohk.com"
+      },
+      {
+        "http_status": 503,
+        "seconds": 0.266,
+        "final_host": "www.hongbaohk.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.huamaotv.com/",
+    "attempts": [
+      {
+        "http_status": 410,
+        "seconds": 3.56,
+        "final_host": "ww80.huamaotv.com"
+      },
+      {
+        "http_status": 410,
+        "seconds": 1.405,
+        "final_host": "ww80.huamaotv.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.jrkankan.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.827,
+        "final_host": "www.jrkankan.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.066,
+        "final_host": "www.jrkankan.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.laladj.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.422,
+        "final_host": "www.laladj.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.474,
+        "final_host": "www.laladj.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.lzizy9.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 30.002
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 30.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.mgtv.fun/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.581,
+        "final_host": "www.mgtv.fun"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.309,
+        "final_host": "www.mgtv.fun"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.ntdm8.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.298
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.qimiqimi.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.823,
+        "final_host": "www.qimiqimi.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.549,
+        "final_host": "www.qimiqimi.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.qingting.fm/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.305,
+        "final_host": "www.qtfm.cn"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.198,
+        "final_host": "www.qtfm.cn"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.sharenice.net/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 1.252,
+        "final_host": "www.sharenice.net"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.583,
+        "final_host": "www.sharenice.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.ting38.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 30.548
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 28.012
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.ttsp.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.045
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.tvyb03.com/",
+    "attempts": [
+      {
+        "http_status": 503,
+        "seconds": 2.055,
+        "final_host": "www.tvyb03.com"
+      },
+      {
+        "http_status": 503,
+        "seconds": 0.46,
+        "final_host": "www.tvyb03.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://www.xb6v.com/",
+    "attempts": [
+      {
+        "http_status": 503,
+        "seconds": 0.734,
+        "final_host": "www.xb6v.com"
+      },
+      {
+        "http_status": 503,
+        "seconds": 0.065,
+        "final_host": "www.xb6v.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://yingszj.xn--654a.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.585
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://ys.changmengyun.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.289
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.617
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "http://ytcms.lyyytv.cn/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 0.127,
+        "final_host": "ytcms.lyyytv.cn"
+      },
+      {
+        "http_status": 403,
+        "seconds": 0.099,
+        "final_host": "ytcms.lyyytv.cn"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://1234567.weixiaolove.cn/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.024
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://123kubo.tv/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.36,
+        "final_host": "123kubo.tv"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.026,
+        "final_host": "123kubo.tv"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://188kan.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.048
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://4k4k.live/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 2.159
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://4kdyw.qsclub.cn/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.074
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://539539.xyz/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.789,
+        "final_host": "www.539539.xyz"
+      },
+      {
+        "http_status": 200,
+        "seconds": 2.501,
+        "final_host": "www.539539.xyz"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://7xi.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.041
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://abu22.com/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 1.375
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.578
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://acgfans.org/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.751
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://active.163.com/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 0.271,
+        "final_host": "active.163.com"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.216,
+        "final_host": "active.163.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://adys.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.115
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.049
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://adys123.com/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 4.445
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.612,
+        "final_host": "adys123.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://aikanys.vip/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.203
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.07
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://aipanso.com/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 0.488,
+        "final_host": "aipanso.com"
+      },
+      {
+        "http_status": 403,
+        "seconds": 0.2,
+        "final_host": "aipanso.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://akanhd.com/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 1.994
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.548
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://anime.girigirilove.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.526
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.278
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://anime1.me/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.625
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.245
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.agemys.org/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.407
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.apibdzy.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.305,
+        "final_host": "api.apibdzy.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.278,
+        "final_host": "api.apibdzy.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.bilibili.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.28,
+        "final_host": "www.bilibili.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.206,
+        "final_host": "www.bilibili.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.bookan.com.cn/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.151,
+        "final_host": "api.bookan.com.cn"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.081,
+        "final_host": "api.bookan.com.cn"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.dovx.tk/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.404
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.kuaifan.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.147
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.live.bilibili.com/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 0.289,
+        "final_host": "api.live.bilibili.com"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.135,
+        "final_host": "api.live.bilibili.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api.tyun77.cn/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 1.044,
+        "final_host": "api.tyun77.cn"
+      },
+      {
+        "http_status": 403,
+        "seconds": 0.158,
+        "final_host": "api.tyun77.cn"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://api123.adys.app/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.532,
+        "final_host": "api123.adys.app"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.724,
+        "final_host": "api123.adys.app"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://auete.site/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.156
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://bczhuiju.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.161
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://bfzyapi.com/",
+    "attempts": [
+      {
+        "http_status": 500,
+        "seconds": 1.11,
+        "final_host": "bfzyapi.com"
+      },
+      {
+        "http_status": 500,
+        "seconds": 1.05,
+        "final_host": "bfzyapi.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://bzhanys.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.166
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://bzhanyy.com/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 7.735
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 6.824
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://cc.kan.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.037
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://cdnkan.top/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.959
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.226
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://chinaqtv.co/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.277
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.231
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://cj.lzcaiji.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.55
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.229
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://cj.lziapi.com/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 0.778,
+        "final_host": "cj.lziapi.com"
+      },
+      {
+        "http_status": 403,
+        "seconds": 0.754,
+        "final_host": "cj.lziapi.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://cokemv.co/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 6.274
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.952,
+        "final_host": "cokemv.co"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://cym.zhui.la/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.21
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://cz01.vip/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.779,
+        "final_host": "cz01.vip"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.781,
+        "final_host": "cz01.vip"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://ddys.mov/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.834
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://ddys.pro/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.36
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://ddys.wiki/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 5.484,
+        "final_host": "ddys.app"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.453,
+        "final_host": "ddys.app"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://dianying.in/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.448,
+        "final_host": "www.umeng.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.352,
+        "final_host": "www.umeng.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://dsxys.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.111,
+        "final_host": "dsxys.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.059,
+        "final_host": "dsxys.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://dsxys.pro/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.596
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.296
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://frodo.douban.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.164,
+        "final_host": "www.douban.com"
+      },
+      {
+        "http_status": 403,
+        "seconds": 0.123,
+        "final_host": "sec.douban.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://fun.tvoled.net/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.178
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://getpodcast.xyz/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.018,
+        "final_host": "getpodcast.xyz"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.191,
+        "final_host": "getpodcast.xyz"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://gfys.top/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.023
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://gfysys.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 4.202,
+        "final_host": "gfysys.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 4.635,
+        "final_host": "gfysys.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://gimy.su/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.338
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.249
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://gitcafe.net/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.18
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.003
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://haiwaikan.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.373,
+        "final_host": "haiwaikan.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.818,
+        "final_host": "haiwaikan.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://haozhansou.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.706,
+        "final_host": "ww547.haozhansou.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 2.139,
+        "final_host": "ww547.haozhansou.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://hoho.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.062
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://ikyy.app/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.732
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://ikyy.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.061
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.262
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://jango-index.ml/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.35
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://jango-index.tk/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.24
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://leshiapi.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.308
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://m.7caa.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.043
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://m.douyu.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.109,
+        "final_host": "m.douyu.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.034,
+        "final_host": "m.douyu.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://m.haokongbu.top/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.18,
+        "final_host": "www.haokongbu.top"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.684,
+        "final_host": "www.haokongbu.top"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://m.ting275.com/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 2.295,
+        "final_host": "m.ting275.com"
+      },
+      {
+        "http_status": 403,
+        "seconds": 1.019,
+        "final_host": "m.ting275.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://meow.tg/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.881,
+        "final_host": "meow.tg"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.056,
+        "final_host": "meow.tg"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://netflixdog.club/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.632
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.192
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://nkvod.pro/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.198
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://olevod.io/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.734,
+        "final_host": "olevod.io"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.06,
+        "final_host": "olevod.io"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://olevod.live/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.839,
+        "final_host": "olevod.live"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.012,
+        "final_host": "olevod.live"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://pianku.api.%6d%67%74%76.com/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 0.139,
+        "final_host": "pianku.api.mgtv.com"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.103,
+        "final_host": "pianku.api.mgtv.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://pipiya.cc/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 0.776
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.428
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://pupvod.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.184
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://qfitv.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 5.024,
+        "final_host": "ww547.qfitv.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 2.049,
+        "final_host": "ww547.qfitv.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://qzy998-1.ysgq.xyz/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.2
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://rebozj.pro/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 5.556,
+        "final_host": "www.rebozj.cc"
+      },
+      {
+        "http_status": 200,
+        "seconds": 2.162,
+        "final_host": "www.rebozj.cc"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://sc1080.top/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.644
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.245
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://shdy3.com/",
+    "attempts": [
+      {
+        "http_status": 522,
+        "seconds": 3.178,
+        "final_host": "shdy3.com"
+      },
+      {
+        "http_status": 522,
+        "seconds": 1.028,
+        "final_host": "shdy3.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://siguyy.cc/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 7.764
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 6.78
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://sk100.tv/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.897,
+        "final_host": "sk100.tv"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.024,
+        "final_host": "sk100.tv"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://subaibai.vip/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 5.276,
+        "final_host": "www.subaibai.vip"
+      },
+      {
+        "http_status": 404,
+        "seconds": 1.94,
+        "final_host": "www.subaibai.vip"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://suoniapi.com/",
+    "attempts": [
+      {
+        "http_status": 500,
+        "seconds": 2.676,
+        "final_host": "suoniapi.com"
+      },
+      {
+        "http_status": 500,
+        "seconds": 1.064,
+        "final_host": "suoniapi.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://t-rex.tzfile.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.269,
+        "final_host": "t-rex.tzfile.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.0,
+        "final_host": "t-rex.tzfile.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://tv.libvio.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.39
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://u.duboku.io/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 4.256,
+        "final_host": "u.duboku.io"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.892,
+        "final_host": "u.duboku.io"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://urlebird.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.042
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://v.%71%71.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.194,
+        "final_host": "v.qq.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.182,
+        "final_host": "v.qq.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://v.funletu.com/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 0.121
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.095
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://vd.ubestkid.com/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 1.576,
+        "final_host": "vd.ubestkid.com"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.051,
+        "final_host": "vd.ubestkid.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://w.996w.top/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.112
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://w.duboku.io/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.777
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://wap.230ts.net/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 8.73
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 6.681
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://waptv.sogou.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.236,
+        "final_host": "waptv.sogou.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.128,
+        "final_host": "waptv.sogou.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://wobge.run.goorm.io/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 2.136,
+        "final_host": "wobge.run.goorm.io"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.662,
+        "final_host": "wobge.run.goorm.io"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.%79%6f%75%6b%75.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.417,
+        "final_host": "www.youku.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.403,
+        "final_host": "www.youku.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.139ys.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.029
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.004
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.230ts.net/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 7.012
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 6.78
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.23zhui.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.9
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.607
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.333ys.me/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.19
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.345kp.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.392
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.167
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.348z.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.991,
+        "final_host": "www.348z.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.24,
+        "final_host": "www.348z.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.360kan.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.304,
+        "final_host": "www.360kan.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.076,
+        "final_host": "www.360kan.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.4khdr.cn/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.056
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.5280.fun/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 6.246
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.053
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.555dyy.top/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.732,
+        "final_host": "www.555dyy.top"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.387,
+        "final_host": "www.555dyy.top"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.567dyy.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.466
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.25
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.6080dy4.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.35
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.004
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.66s6.net/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.321
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.067
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.69mj.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.901,
+        "final_host": "www.69mj.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.575,
+        "final_host": "www.69mj.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.7k789.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.779
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.059
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.7xiady.cc/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 1.591
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.488
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.96ba.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.721,
+        "final_host": "www.96ba.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.779,
+        "final_host": "www.96ba.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.97tvs.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.414
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.aikanbot.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.049
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.004
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.alipansou.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.515,
+        "final_host": "www.alipansou.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 4.251,
+        "final_host": "www.alipansou.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.anfuns.cc/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 2.169,
+        "final_host": "www.anfuns.cc"
+      },
+      {
+        "http_status": 404,
+        "seconds": 1.191,
+        "final_host": "www.anfuns.cc"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.baidu.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.103,
+        "final_host": "www.baidu.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.109,
+        "final_host": "www.baidu.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.bcyingshi.ink/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.17
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.056
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.bdys10.com/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 3.037,
+        "final_host": "www.bdys10.com"
+      },
+      {
+        "http_status": 404,
+        "seconds": 1.211,
+        "final_host": "www.bdys10.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.bei5dy.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.373
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.176
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.bei5dy.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 10.659,
+        "final_host": "www.bei5dy.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 9.983,
+        "final_host": "www.bei5dy.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.bengou.co/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.289,
+        "final_host": "www.bengou.co"
+      },
+      {
+        "http_status": 200,
+        "seconds": 2.171,
+        "final_host": "www.bengou.co"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.boosj.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.369
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.004
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.brovod.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.983,
+        "final_host": "www.brovod.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.842,
+        "final_host": "www.brovod.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.bttwo.net/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.033
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.bttwo.vip/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.043,
+        "final_host": "www.bttwo.vip"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.226,
+        "final_host": "www.bttwo.vip"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.chenluo.wang/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.09
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.chumenys.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.137
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.31
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.cilixiong.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.046
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.codelicence.cn/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.071,
+        "final_host": "www.codelicence.cn"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.063,
+        "final_host": "www.codelicence.cn"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.cokemv.fun/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.026,
+        "final_host": "www.cokemv.fun"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.087,
+        "final_host": "www.cokemv.fun"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.cs1369.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.192
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.czzy.site/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.858,
+        "final_host": "www.czzy.site"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.803,
+        "final_host": "www.czzy.site"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.czzy88.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.292,
+        "final_host": "cz01.vip"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.604,
+        "final_host": "cz01.vip"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.dadagui.me/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 1.15,
+        "final_host": "www.dadagui.me"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.248,
+        "final_host": "www.dadagui.me"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.dandanju.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.524
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.096
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.dandanju.vip/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 1.815,
+        "final_host": "www.dandanju.vip"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.695,
+        "final_host": "www.dandanju.vip"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ddzvod.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.13
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.163
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.dmxq.vip/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.154,
+        "final_host": "www.dmxq.vip"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.215,
+        "final_host": "www.dmxq.vip"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.duboku.tv/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.824,
+        "final_host": "www.duboku.tv"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.144,
+        "final_host": "www.duboku.tv"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.duonaovod.com/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 2.638,
+        "final_host": "www.duonaovod.com"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.964,
+        "final_host": "www.duonaovod.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.dygang.tv/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.767,
+        "final_host": "www.dygang.tv"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.675,
+        "final_host": "www.dygang.tv"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.feitu.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.045
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.fun4k.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.041
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.haitu.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.374
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.171
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.huafun.vip/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.045
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.huale.org/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.28,
+        "final_host": "www.huale.org"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.707,
+        "final_host": "www.huale.org"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.hula8.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 5.604,
+        "final_host": "hula8.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 4.644,
+        "final_host": "hula8.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.huya.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.132,
+        "final_host": "www.huya.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.088,
+        "final_host": "www.huya.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ichemv.com/",
+    "attempts": [
+      {
+        "http_status": 503,
+        "seconds": 2.475,
+        "final_host": "www.ichemv.com"
+      },
+      {
+        "http_status": 503,
+        "seconds": 1.02,
+        "final_host": "www.ichemv.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ikanbot.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.896,
+        "final_host": "www.ikanbot.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.681,
+        "final_host": "www.ikanbot.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.inmi.app/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 1.428
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.224
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.iqiyi.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.053,
+        "final_host": "www.iqiyi.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.032,
+        "final_host": "www.iqiyi.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.iyf1.tv/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.007
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.264
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.jiyingw.net/",
+    "attempts": [
+      {
+        "http_status": 410,
+        "seconds": 4.118,
+        "final_host": "ww80.jiyingw.net"
+      },
+      {
+        "http_status": 410,
+        "seconds": 1.994,
+        "final_host": "ww80.jiyingw.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.k9dm.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 4.362,
+        "final_host": "www.k9dm.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.114,
+        "final_host": "www.k9dm.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.kan.cc/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.106,
+        "final_host": "m.kan.cc"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.706,
+        "final_host": "m.kan.cc"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.kangii.com/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 4.645
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 4.285
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.kokyy.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.031
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.005
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ksksl.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.867,
+        "final_host": "www.ksksl.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.68,
+        "final_host": "www.ksksl.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ku6.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.002,
+        "final_host": "www.ku6.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.111,
+        "final_host": "www.ku6.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.kuaikanys.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.8,
+        "final_host": "k.schxlgc.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.186,
+        "final_host": "k.schxlgc.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.kuba222.com/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 1.143
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.383
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.kuin.one/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.044
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.kuqimv.com/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 5.623
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 4.262
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.laimi.me/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.331
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.lanhuatv.com/",
+    "attempts": [
+      {
+        "http_status": 436,
+        "seconds": 2.385,
+        "final_host": "www.lanhuatv.com"
+      },
+      {
+        "http_status": 436,
+        "seconds": 1.198,
+        "final_host": "www.lanhuatv.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.leyupro.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.036
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.007
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.lggys.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.414,
+        "final_host": "www.lggys.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.639,
+        "final_host": "www.lggys.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.lgyy.vip/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.111,
+        "final_host": "www.lgyy.vip"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.678,
+        "final_host": "www.lgyy.vip"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.libvio.app/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.695,
+        "final_host": "www.libvio.app"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.351,
+        "final_host": "www.libvio.app"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.lingyun.in/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.153
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.lldm.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.813,
+        "final_host": "www.lldm.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.902,
+        "final_host": "www.lldm.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.lyys8.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.087,
+        "final_host": "www.lyys8.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.996,
+        "final_host": "www.lyys8.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.magicalsearch.top/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.307
+      },
+      {
+        "http_status": 404,
+        "seconds": 1.956,
+        "final_host": "www.magicalsearch.top"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.meiju56.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.037
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.007
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.meijumi.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.268,
+        "final_host": "www.meijumi.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.933,
+        "final_host": "www.meijumi.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.mgtv.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 0.198,
+        "final_host": "www.mgtv.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.118,
+        "final_host": "www.mgtv.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.miai.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.58
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.miai9.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.877
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.056
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.mp4us.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.032
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.007
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.myd666.tv/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.962,
+        "final_host": "www.myd666.tv"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.732,
+        "final_host": "www.myd666.tv"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.naifei.art/",
+    "attempts": [
+      {
+        "http_status": 410,
+        "seconds": 3.561,
+        "final_host": "ww80.naifei.art"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.633,
+        "final_host": "www.naifei.art"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.naifei.io/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 5.638
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.637,
+        "final_host": "www.naifei.io"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.nmddd.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.178
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.nmdvd.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.901
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.168
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.nyafun.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.714,
+        "final_host": "www.nyafun.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.723,
+        "final_host": "www.nyafun.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.nycvod.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.277
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.odivod.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.782
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.003
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.olevod.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.034
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.006
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.pansearch.me/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.846
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.141
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.physkan.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.548
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.258
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ppydy.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.186
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.psmp3.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 4.786,
+        "final_host": "www.psmp3.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.494,
+        "final_host": "www.psmp3.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.pyys.top/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.021
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.pzjzyy.com/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 2.574
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.878
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.qiuxia360.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 3.278
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.215
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.quqidm.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 5.073,
+        "final_host": "www.quqidm.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.095,
+        "final_host": "www.quqidm.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.quqim.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 5.213,
+        "final_host": "www.quqim.net"
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.241
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.qyy158.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.316
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.rarbt.fun/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.687
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.476
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.reboku.cc/",
+    "attempts": [
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 4.593
+      },
+      {
+        "error_type": "ReadTimeout",
+        "seconds": 4.235
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.rrdynb.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.85,
+        "final_host": "www.rrdynb.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.808,
+        "final_host": "www.rrdynb.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.rttks.com/",
+    "attempts": [
+      {
+        "http_status": 404,
+        "seconds": 4.504,
+        "final_host": "www.rttks.com"
+      },
+      {
+        "http_status": 404,
+        "seconds": 0.988,
+        "final_host": "www.rttks.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.shigys.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.708,
+        "final_host": "www.shigys.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.225,
+        "final_host": "www.shigys.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.subaibaiys.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.038
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.007
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.tuxiaobei.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.078,
+        "final_host": "www.tuxiaobei.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.184,
+        "final_host": "www.tuxiaobei.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.uccomic.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.189
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.umkan.cc/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.183
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.voflix.me/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.853,
+        "final_host": "www.voflix.me"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.782,
+        "final_host": "www.voflix.me"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.vvvdj.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.178
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.wangfei.tv/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 1.563,
+        "final_host": "www.wangfei.tv"
+      },
+      {
+        "http_status": 403,
+        "seconds": 0.198,
+        "final_host": "www.wangfei.tv"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.wzwt369.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.378
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.184
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.xbcdy.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 4.637,
+        "final_host": "www.xbcdy.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.163,
+        "final_host": "www.xbcdy.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.xbw20.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.512,
+        "final_host": "www.xbw20.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.747,
+        "final_host": "www.xbw20.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.xsmp3.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.991,
+        "final_host": "www.xsmp3.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.62,
+        "final_host": "www.xsmp3.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ylwt33.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 3.345,
+        "final_host": "www.ylwt33.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.994,
+        "final_host": "www.ylwt33.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.youshenghuiben.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.328,
+        "final_host": "www.youhaoting.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.272,
+        "final_host": "www.youhaoting.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ysgc.fun/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.422
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.149
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.yu992.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.163
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.yxdmlove.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.032
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 8.007
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.zhuafan.xin/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.19
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.zhuafantiyu.co/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.193
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.001
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.zhuijumi.cc/",
+    "attempts": [
+      {
+        "http_status": 521,
+        "seconds": 3.284,
+        "final_host": "www.zhuijumi.cc"
+      },
+      {
+        "http_status": 521,
+        "seconds": 1.034,
+        "final_host": "www.zhuijumi.cc"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.ziziys.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.223
+      },
+      {
+        "error_type": "ConnectTimeout",
+        "seconds": 4.004
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.zxzj.site/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.664,
+        "final_host": "www.zxzj.site"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.061,
+        "final_host": "www.zxzj.site"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://www.zxzja.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 4.546,
+        "final_host": "www.zxzja.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.01,
+        "final_host": "www.zxzja.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://xi1.net/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 1.92,
+        "final_host": "xi1.net"
+      },
+      {
+        "http_status": 200,
+        "seconds": 0.625,
+        "final_host": "xi1.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://xiaobaotv.net/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 2.057,
+        "final_host": "xiaobaotv.net"
+      },
+      {
+        "http_status": 403,
+        "seconds": 1.07,
+        "final_host": "xiaobaotv.net"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://xxmsrj.com/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.936,
+        "final_host": "2026-10-08.urldance.com"
+      },
+      {
+        "http_status": 200,
+        "seconds": 2.146,
+        "final_host": "2026-10-08.urldance.com"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://xzys.fun/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.815,
+        "final_host": "xzys.fun"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.071,
+        "final_host": "xzys.fun"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://yiso.fun/",
+    "attempts": [
+      {
+        "http_status": 403,
+        "seconds": 3.593,
+        "final_host": "yiso.fun"
+      },
+      {
+        "http_status": 403,
+        "seconds": 1.725,
+        "final_host": "yiso.fun"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://yyets.click/",
+    "attempts": [
+      {
+        "http_status": 200,
+        "seconds": 2.582,
+        "final_host": "yyets.click"
+      },
+      {
+        "http_status": 200,
+        "seconds": 1.664,
+        "final_host": "yyets.click"
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://zhaoziyuan.pw/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.154
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.002
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://zpsps.com/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.921
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.061
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://zrys1.top/",
+    "attempts": [
+      {
+        "error_type": "ConnectionError",
+        "seconds": 1.867
+      },
+      {
+        "error_type": "ConnectionError",
+        "seconds": 0.262
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  },
+  {
+    "origin": "https://zyb.upyunso.com/",
+    "attempts": [
+      {
+        "error_type": "SSLError",
+        "seconds": 1.855
+      },
+      {
+        "error_type": "SSLError",
+        "seconds": 0.482
+      }
+    ],
+    "meaning": "Origin reachability only; not source or playback validation"
+  }
+]

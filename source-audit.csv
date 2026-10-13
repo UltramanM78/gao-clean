@@ -1,0 +1,723 @@
+﻿配置,来源名称,用途（名称启发分类）,类型,API,运行验证,依赖检查,缺失相对路径,说明
+0821.json,豆瓣┃搜索,工具/元数据,3,csp_DouDou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,预告片┃新片,工具/元数据,3,csp_YGP,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,哔哩┃合集,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,哔哩┃课堂,动漫/少儿/教育,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,玩偶哥哥┃4K弹幕,网盘/磁力,3,csp_WoGG,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,电视┃直播,直播,3,./lib/lf_live_min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,926┃看球,体育,3,csp_kanqiu926,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json, 88┃看球,体育,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json, 310┃看球,体育,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json, Jrs┃球迷,体育,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,酷奇┃MV,音频/音乐,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,明星┃MV,音频/音乐,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,虎牙┃直播,直播,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,斗鱼┃直播,直播,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,有声┃小说,音频/音乐,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,急救┃教学,动漫/少儿/教育,3,csp_FirstAid,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,一直播┃直播,直播,3,csp_Alllive,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,米盘┃搜搜,网盘/磁力,3,csp_MIPanSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,抠抠┃搜搜,网盘/磁力,3,csp_KkSs,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,立播┃秒播,综合影视,3,csp_Libvio,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,文采┃秒播,综合影视,3,csp_Jpys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,糯米┃秒播,综合影视,3,csp_Nmyswv,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,在线┃秒播,综合影视,3,csp_Zxzj,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,比特┃秒播,综合影视,3,csp_Bttwoo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,苹果┃不卡,综合影视,3,csp_LiteApple,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,厂长┃不卡,综合影视,3,csp_NewCz,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,木星┃多线,综合影视,3,csp_AppSx,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,速播┃多线,综合影视,3,csp_AppSx,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,热播┃多线,综合影视,3,csp_AppTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,南瓜┃多线,综合影视,3,csp_NanGua,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,萌米┃多线,综合影视,3,csp_AppTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,欢视┃多线,综合影视,3,csp_AppTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,可可┃多线,综合影视,3,csp_Kekys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,贱贱┃P2P,综合影视,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,奥特┃无广,综合影视,3,csp_Auete,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,新6V┃磁力,网盘/磁力,3,csp_SixV,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,上头┃短剧,综合影视,3,csp_Djtt,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,巴士┃动漫,动漫/少儿/教育,3,csp_Dm84,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,异界┃动漫,动漫/少儿/教育,3,csp_Ysj,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,日本┃动漫,动漫/少儿/教育,3,csp_Anime1,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,盘他┃三盘,网盘/磁力,3,csp_PanSso,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,夸搜┃狸夸,网盘/磁力,3,csp_PanSearch,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,易搜┃阿狸,网盘/磁力,3,csp_YiSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,盘Se┃阿狸,网盘/磁力,3,csp_PanSearch,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,手机┃推送,工具/元数据,3,csp_Push,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,AList┃网盘,网盘/磁力,3,csp_AList,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,新6V磁力┃慎用,网盘/磁力,3,csp_SixV,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,百度┃采集,综合影视,1,https://api.apibdzy.com/api.php/provide/vod?ac=list,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 2/3；视频证据另见 media-tests.json，不能推断全片库可用
+0821.json,量子┃采集,综合影视,0,https://cj.lziapi.com/api.php/provide/vod/at/xml/,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0821.json,非凡┃采集,综合影视,0,http://cj.ffzyapi.com/api.php/provide/vod/at/xml/,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0821.json,海外看┃采集,综合影视,1,https://haiwaikan.com/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0821.json,暴風┃采集,综合影视,1,https://bfzyapi.com/api.php/provide/vod,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0821.json,索尼┃采集,综合影视,1,https://suoniapi.com/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0821.json,快帆┃采集,综合影视,1,https://api.kuaifan.tv/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0821.json,官源┃360[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,官源┃爱奇艺[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,官源┃芒果[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,官源┃腾讯[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,官源┃搜狗[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,官源┃优酷[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,弹幕┃我的哔哩[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,弹幕┃哔哩直播[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,直播┃JustLive[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,直播┃斗鱼[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,直播┃虎牙[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,少儿┃童趣[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,少儿┃兔小贝[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,动漫┃AnFuns[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,动漫┃NT动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,动漫┃NyaFun[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,听书┃i275听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,听书┃爱上你听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,听书┃博看听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,听书┃有声小说[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,评书┃评书随身听[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,相声┃相声随身听[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,电视┃好趣网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,广播┃广播迷FM[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,广播┃蜻蜓FM[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,音频┃DJ音乐[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,聚合┃短视频[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,聚合┃酷6网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,聚合┃网易公版[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,MV┃酷奇[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,配置接口完全免费,工具/元数据,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0821.json,请勿相信视频中任何广告,工具/元数据,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,豆瓣,工具/元数据,3,csp_Douban,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,熊搜,综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,预告片,工具/元数据,3,csp_YGP,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,哔哩,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,Youtube,综合影视,3,csp_Youtube,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,急救 ,动漫/少儿/教育,3,csp_FirstAid,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,直播,直播,3,./lib/lf_live_min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,TG频道搜索,网盘/磁力,3,csp_TGYunPanLocal,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,TG群组搜索,网盘/磁力,3,csp_TGYunPan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,本地,工具/元数据,3,csp_Local,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,看球,体育,3,csp_Kanqiu,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,88看球,体育,3,./lib/drpy.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,310直播,体育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,企鹅,综合影视,3,csp_XPath,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,酷狗,音频/音乐,3,csp_Kugou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,KTV,音频/音乐,3,csp_Iktv,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,音悦台,综合影视,3,csp_Yinyuetai,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,配置中心,工具/元数据,3,csp_Config,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,资源分享,综合影视,3,csp_PushShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,PikPak分享,网盘/磁力,3,csp_PikPakShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,影视分享,网盘/磁力,3,csp_AliShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,书籍分享,网盘/磁力,3,csp_AliShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,迅雷分享,网盘/磁力,3,csp_ThunderShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,夸克分享,网盘/磁力,3,csp_QuarkShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,115云盘分享,网盘/磁力,3,csp_P115Share,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,UC云盘分享,网盘/磁力,3,csp_UCShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,Samba分享,综合影视,3,csp_SambaShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,追剧,综合影视,3,csp_TTian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,天天,综合影视,3,csp_TTian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,南瓜,综合影视,3,csp_NanGua,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,哔滴,综合影视,3,csp_Bdys01,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,荐片,综合影视,3,csp_Jianpian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,不太灵,综合影视,3,csp_Bt0,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,爱看,综合影视,3,csp_Ikanbot,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,迅雷吧,网盘/磁力,3,csp_Xunlei8,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,美剧天天,综合影视,3,csp_MeijuTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,SeedHub,综合影视,3,csp_SeedHub,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,蚂蚁,综合影视,3,csp_Mayiys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,快看,综合影视,3,csp_Kuaikan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,泥巴,综合影视,3,csp_NiNi,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,星星,综合影视,3,csp_Star,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,影视,综合影视,3,csp_YingShi,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,櫻花,综合影视,3,csp_Ying,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,巴士,综合影视,3,csp_Dm84,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,獨播,综合影视,3,csp_XPathMacFilter,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,玩偶,网盘/磁力,3,csp_Wogg,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,表哥,网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,老哥,网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,蜡笔,网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,木偶哥哥|网盘,网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,土豆|网盘,网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wog.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,小米|网盘,网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,HDmoli,综合影视,3,csp_Moli,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,新视觉,综合影视,3,csp_Xinshijue,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,高清网,综合影视,3,csp_Gaoqing,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,音范丝,综合影视,3,csp_Gaoqing,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,低端,综合影视,3,csp_Ddys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,美剧迷,综合影视,3,csp_Meijumi,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,皮皮虾,综合影视,3,csp_Ppxzy,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,盘Ta,网盘/磁力,3,csp_Panta,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,影巢,综合影视,3,csp_Hdh,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,新6V,综合影视,3,csp_Xb6v,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,4KHDR,综合影视,3,csp_FourKHDR,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,校长,综合影视,3,csp_XiaoZhang,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,团长,综合影视,3,csp_TZFile,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,云盘,网盘/磁力,3,csp_YunPan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,玩偶4k,综合影视,3,csp_Wo4k,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,小盘盘,网盘/磁力,3,csp_Xpanpan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,TG搜索,网盘/磁力,3,csp_TGYunPan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,影搜,综合影视,3,csp_YingSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,盘友圈,网盘/磁力,3,csp_Panyq,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,88网盘,网盘/磁力,3,csp_EightEight,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,皮卡搜,综合影视,3,csp_PikaSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,混合盘,网盘/磁力,3,csp_HunHePan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,秒搜,综合影视,3,csp_MiaoSou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,LIBVIO,综合影视,3,csp_Libvio,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,大盘搜,网盘/磁力,3,csp_DaPanSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,千帆,综合影视,3,csp_Qianfan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,小云,综合影视,3,csp_YunSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,云盘One,网盘/磁力,3,csp_YunPanOne,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,纸条,综合影视,3,csp_Gitcafe,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,小紙條,综合影视,3,csp_XiaoZhiTiao,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,七夜,综合影视,3,csp_Dovx,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,盤搜索,网盘/磁力,3,csp_PanSearch,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,找資源,综合影视,3,csp_Zhaozy,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,易搜,综合影视,3,csp_YiSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,盘搜,网盘/磁力,3,csp_PanSou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,云搜,综合影视,3,csp_UpYun,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,趣盘搜,网盘/磁力,3,csp_Funletu,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,夸克盘搜,网盘/磁力,3,csp_QuarkPanso,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,小白,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,BT天堂,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,布谷4K,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,好恐怖,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,圣城1080,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,秋霞,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,VidHub,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,rarbt,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,文才,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,白嫖影视,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,黑狐影院,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,电影先生,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,麻衣影院,综合影视,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,相声,音频/音乐,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,评书,音频/音乐,3,csp_XBPQ,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,4KHDR[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,MP4电影[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,电影港[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,酷吧[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,新版6v[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,美剧迷[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,低端[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,libvio[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,团长[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,dydhhy[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,97tvs[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,rrdyw[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,校长[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,人人搜[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,奇妙搜[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,爱盘搜[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,趣盘搜[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,meow搜[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,夸克推送,网盘/磁力,3,csp_Quark,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,推送,工具/元数据,3,csp_Push,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,量子,综合影视,1,https://cj.lziapi.com/api.php/provide/vod,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0825.json,非凡,综合影视,1,http://cj.ffzyapi.com/api.php/provide/vod,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0825.json,海外看,综合影视,1,https://haiwaikan.com/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0825.json,暴風,综合影视,1,https://bfzyapi.com/api.php/provide/vod,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0825.json,索尼,综合影视,1,https://suoniapi.com/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0825.json,快帆,综合影视,1,https://api.kuaifan.tv/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0825.json,乐视,综合影视,1,https://leshiapi.com/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0825.json,网盘,网盘/磁力,3,csp_AList,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,云盘,工具/元数据,3,csp_WebDAV,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0825.json,應用商店,工具/元数据,3,csp_Market,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,备用公众号【叨观荐影】,工具/元数据,3,csp_DouDou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,👽玩偶哥哥┃4K弹幕,网盘/磁力,3,csp_WoGG,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🚀叨观荐影┃新片,综合影视,3,csp_YGP,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📽️一直播┃直播,直播,3,csp_Alllive,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🦋米盘┃搜搜,网盘/磁力,3,csp_MIPanSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🍄抠抠┃搜搜,网盘/磁力,3,csp_KkSs,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🌟立播┃秒播,综合影视,3,csp_Libvio,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,💮文采┃秒播,综合影视,3,csp_Jpys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🍓糯米┃秒播,综合影视,3,csp_Nmyswv,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🍊在线┃秒播,综合影视,3,csp_Zxzj,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🍄比特┃秒播,综合影视,3,csp_Bttwoo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🍎苹果┃不卡,综合影视,3,csp_LiteApple,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📔厂长┃不卡,综合影视,3,csp_NewCz,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🌞木星┃多线,综合影视,3,csp_AppSx,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,⏮️速播┃多线,综合影视,3,csp_AppSx,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📺热播┃多线,综合影视,3,csp_AppTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🎃南瓜┃多线,综合影视,3,csp_NanGua,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,👀萌米┃多线,综合影视,3,csp_AppTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,👓欢视┃多线,综合影视,3,csp_AppTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,👻可可┃多线,综合影视,3,csp_Kekys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🐭贱贱┃P2P,综合影视,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🏝奥特┃无广,综合影视,3,csp_Auete,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🧲新6V┃磁力,网盘/磁力,3,csp_SixV,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🌈上头┃短剧,综合影视,3,csp_Djtt,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🚌巴士┃动漫,动漫/少儿/教育,3,csp_Dm84,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🎀异界┃动漫,动漫/少儿/教育,3,csp_Ysj,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🐾日本┃动漫,动漫/少儿/教育,3,csp_Anime1,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,⚽926┃看球,体育,3,csp_kanqiu926,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,⚽ 88┃看球,体育,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,⚽ 310┃看球,体育,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,⚽ Jrs┃球迷,体育,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🎤酷奇┃MV,音频/音乐,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🎧明星┃MV,音频/音乐,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🐯虎牙┃直播,直播,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🐟斗鱼┃直播,直播,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🎧有声┃小说,音频/音乐,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🚑急救┃教学,动漫/少儿/教育,3,csp_FirstAid,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🐌盘他┃三盘,网盘/磁力,3,csp_PanSso,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🐟夸搜┃狸夸,网盘/磁力,3,csp_PanSearch,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,😹易搜┃阿狸,网盘/磁力,3,csp_YiSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🙀盘Se┃阿狸,网盘/磁力,3,csp_PanSearch,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🛴手机┃推送,工具/元数据,3,csp_Push,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🅱哔哔合集┃弹幕,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,🅱哔哔演唱会┃弹幕,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📚儿童┃启蒙,动漫/少儿/教育,3,https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📚少儿┃教育,动漫/少儿/教育,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📚小学┃课堂,动漫/少儿/教育,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📚初中┃课堂,动漫/少儿/教育,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,📚高中┃课堂,动漫/少儿/教育,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,导航 www.饭太硬.com,工具/元数据,3,csp_XPath,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0826.json,请勿相信视频中广告,工具/元数据,3,csp_XPath,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,商店,工具/元数据,3,csp_Market,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,泥巴,综合影视,3,csp_NiNi,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,星星,综合影视,3,csp_Star,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,玩偶,网盘/磁力,3,csp_Wogg,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,賤賤,综合影视,3,csp_Jianpian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,獨播,综合影视,3,csp_XPathMacFilter,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,海外看,综合影视,1,https://haiwaikan.com/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0827.json,豆瓣,工具/元数据,3,csp_Douban,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,新6V,综合影视,3,csp_Xb6v,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,看球,体育,3,csp_Kanqiu,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,暴風,综合影视,1,https://bfzyapi.com/api.php/provide/vod,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0827.json,索尼 ,综合影视,1,https://suoniapi.com/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0827.json,快帆,综合影视,1,https://api.kuaifan.tv/api.php/provide/vod,API_FAILED_THIS_RUN,PRESENT_OR_EXTERNAL,,协议请求 0/6 成功，三类样本命中 0/3；视频证据另见 media-tests.json，不能推断全片库可用
+0827.json,量子,综合影视,1,https://cj.lziapi.com/api.php/provide/vod,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0827.json,非凡,综合影视,1,http://cj.ffzyapi.com/api.php/provide/vod,API_PASSED,PRESENT_OR_EXTERNAL,,协议请求 6/6 成功，三类样本命中 3/3；视频证据另见 media-tests.json，不能推断全片库可用
+0827.json,櫻花,综合影视,3,csp_Ying,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,巴士,综合影视,3,csp_Dm84,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,異界,综合影视,3,csp_Ysj,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,哔哩,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,哔哩貓,综合影视,3,./cat/js/bili_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,酷狗,音频/音乐,3,csp_Kugou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,本地,工具/元数据,3,csp_Local,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,AList,网盘/磁力,3,csp_AList,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,WebDAV,工具/元数据,3,csp_WebDAV,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,JustLive,直播,3,csp_JustLive,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,七夜,综合影视,3,csp_Dovx,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,易搜,综合影视,3,csp_YiSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,雲搜,综合影视,3,csp_UpYun,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,盤搜,网盘/磁力,3,csp_PanSou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,紙條搜,综合影视,3,csp_XiaoZhiTiao,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,盤搜索,网盘/磁力,3,csp_PanSearch,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,找資源,综合影视,3,csp_Zhaozy,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+0827.json,推送,工具/元数据,3,csp_Push,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,💻本地视频,工具/元数据,3,csp_LocalFile,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,豆瓣[js],工具/元数据,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,奇珍异兽[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,优酷[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,腾云驾雾[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,百忙无果[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📀找资源(搜索),综合影视,3,csp_Zhaozy,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📀喵狸盘搜(搜索),网盘/磁力,3,csp_AliPS,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📀易搜(搜索),综合影视,3,csp_Yisou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📀UP云搜(搜索),综合影视,3,csp_Upyunso,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📀影搜(XYQH),综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📀玩偶哥哥(优),综合影视,3,csp_XYQHikerAL,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📀云盘资源(搜索),综合影视,3,csp_XYQHikerAL,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📽推送,工具/元数据,3,csp_PushAgent,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲Mp4电影,综合影视,3,csp_Mp4Mov,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲新6V,综合影视,3,csp_New6v,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲SeedHub,综合影视,3,csp_SeedHub,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲酷吧电影,综合影视,3,csp_KubaCL,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲美剧天堂,综合影视,3,csp_MeijuTT,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲美剧迷,综合影视,3,csp_MeijuMi,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲迅雷吧,网盘/磁力,3,csp_Xunlei8,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞360影视,综合影视,3,csp_SP360,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,💡快看影视,综合影视,3,csp_Kuaikan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞厂长资源,综合影视,3,csp_Czsapp,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔嘀影视,综合影视,3,csp_Bdys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧲哔嘀影视(XYQH),综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞低端影视,综合影视,3,csp_Ddys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🔨荐片,综合影视,3,csp_JianPian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,👾Ikanbot,综合影视,3,csp_Ikanbot,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔哩综合,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,兔小贝(XYQH),综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,兔小贝2(XYQH),综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,播视童趣(XYQH),综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔哩幼儿,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔哩少儿,动漫/少儿/教育,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔哩小学,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔哩初中,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔哩高中,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,哔哩直播[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐞哔哩短剧,综合影视,3,csp_Bili,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,爱你短剧,综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,河马短剧,综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,短剧屋,综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🧑🏻‍农民影视,综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,七新影视(XYQH),综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,可可影视(XYQH),综合影视,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,📡JustLive,直播,3,csp_Yj1211,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,虎牙直播(JS),直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+XYQ.json,🐯虎牙直播(XYQH),直播,3,csp_XYQHiker,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 豆瓣👁️‍,工具/元数据,3,./douban_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 片单,工具/元数据,3,./doubanbb.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 央视,综合影视,3,./cntv_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 玩偶,网盘/磁力,3,./wogg_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 表哥,网盘/磁力,3,./wobg_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 耐看,综合影视,3,./nkvod_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 爱看,综合影视,3,./ikanbot_bytecode.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 天天,综合影视,3,./tiantian_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 素白,综合影视,3,./subaibai_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 低端,综合影视,3,./ddys_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 JOJO,综合影视,3,./jojo_bytecode.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 电视,综合影视,3,./caiji.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 南瓜①,综合影视,3,./ng_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 南瓜②,综合影视,3,./nangua_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 在线,综合影视,3,./zxzj_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 一起,音频/音乐,3,./yqktv_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 三五,综合影视,3,./555dy_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 圣城,综合影视,3,./sc1080_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 胖虎,网盘/磁力,3,./panghu_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 人人,综合影视,3,./rttks_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 图图,综合影视,3,./tutu_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 农民,综合影视,3,./nmddd_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 师兄,综合影视,3,./dsxys_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 Afun,综合影视,3,./anfun_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 厂长,综合影视,3,./czzy_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 爱漫,综合影视,3,./adm_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 短剧①,综合影视,3,./kuwo_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 短剧②,综合影视,3,./duanju5_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 斗鱼,直播,3,./douyu_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 虎牙,直播,3,./huya_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 我哔,综合影视,3,./mybili_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 哔哩,综合影视,3,./bili_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 直播,直播,3,./bililive_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 火狐,综合影视,3,./caiji.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 新浪,综合影视,3,./caiji.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 红牛,综合影视,3,./caiji.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 速播,综合影视,3,./caiji.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 极速,综合影视,3,./caiji.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 光速,综合影视,3,./caiji.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 宅腐,综合影视,3,./appysv2.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 央视,综合影视,3,./cntv_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 UFC,综合影视,3,./ufc_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 武享,综合影视,3,./hula8_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 小贝,综合影视,3,./tuxiaobei_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 乐虎,综合影视,3,./ubestkid_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 酷奇,音频/音乐,3,./kuqimv_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 童趣,综合影视,3,./boosj_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🟢 短视频,综合影视,3,./sharenice_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,♻ 推送,工具/元数据,4,./push_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 盘寻,网盘/磁力,3,./pansearch_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 盘搜,网盘/磁力,3,./pansou_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 七夜,综合影视,3,./dovx_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 纸条,综合影视,3,./xiaozhitiao_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 云搜,综合影视,3,./upyun_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 易搜,综合影视,3,./yiso_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 云盘,网盘/磁力,3,./yunpan4k_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 资源,综合影视,3,./zhaozy_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🔍 趣盘,综合影视,3,./funletu_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,📓 笔趣,综合影视,10,./13bqg_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🎧 老白,综合影视,10,./lbgs_book_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🎧 博看,综合影视,10,./bookan_book_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🎧 爱听,综合影视,10,./230ts_book_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,🎧 爱DJ,综合影视,10,./dj0898_book_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,📓 拷贝漫画,综合影视,20,./copymanga_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,📓 风车漫画,综合影视,20,./fengche_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,📓 包子漫画,综合影视,20,./baozimh_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,📓 ACG漫画,综合影视,20,./acgwd_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,📓 漫客漫画,综合影视,20,./mkz_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,📓 笨狗漫画,综合影视,20,./bengou_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+cat/js/config_open.json,Alist,网盘/磁力,40,./alist_open.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,搜索 | 豆瓣[js],工具/元数据,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,搜索 | 磁力熊[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,搜索 | 路飞[js],综合影视,3,./lib/lf_search3_min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 荐片[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,路飞 | 磁力[js],网盘/磁力,3,./lib/lf_p2p2_min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,电视 | 直播[js],直播,3,./lib/lf_live_min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,搜索 | 豆瓣[jar],工具/元数据,3,csp_Douban,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,搜索 | TG[jar],网盘/磁力,3,csp_TGYunPanLocal,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,视频 | Youtube[jar],综合影视,3,csp_Youtube,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,科普 | 急救[jar],动漫/少儿/教育,3,csp_FirstAid,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,配置 | 中心[jar],工具/元数据,3,csp_Config,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,音频 | 酷狗[jar],音频/音乐,3,csp_Kugou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,MV | KTV[jar],音频/音乐,3,csp_Iktv,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,MV | 音悦台[jar],音频/音乐,3,csp_Yinyuetai,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,书籍 | 分享[jar],网盘/磁力,3,csp_AliShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 荐片[jar],综合影视,3,csp_Jianpian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 哔滴[jar],综合影视,3,csp_Bdys01,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 天天[jar],综合影视,3,csp_TTian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 追剧[jar],综合影视,3,csp_TTian,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 南瓜[jar],综合影视,3,csp_NanGua,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 资源分享[jar],综合影视,3,csp_PushShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | PikPak分享[jar],网盘/磁力,3,csp_PikPakShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 影视分享[jar],网盘/磁力,3,csp_AliShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 迅雷分享[jar],网盘/磁力,3,csp_ThunderShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 夸克分享[jar],网盘/磁力,3,csp_QuarkShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 115分享[jar],网盘/磁力,3,csp_P115Share,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | UC分享[jar],综合影视,3,csp_UCShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | Samba分享[jar],综合影视,3,csp_SambaShare,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 玩偶[jar],网盘/磁力,3,csp_Wogg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 表哥[jar],网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 老哥[jar],网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 蜡笔[jar],网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 木偶哥哥[jar],网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 土豆[jar],网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wog.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 小米[jar],网盘/磁力,3,csp_Wobg,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 新视觉[jar],综合影视,3,csp_Xinshijue,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,lib/wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | HDmoli[jar],综合影视,3,csp_Moli,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 不太灵[jar],综合影视,3,csp_Bt0,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 低端[jar],综合影视,3,csp_Ddys,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 美剧迷[jar],综合影视,3,csp_Meijumi,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 皮皮虾[jar],综合影视,3,csp_Ppxzy,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 新6V[jar],综合影视,3,csp_Xb6v,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 4KHDR[jar],综合影视,3,csp_FourKHDR,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 校长[jar],综合影视,3,csp_XiaoZhang,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 团长[jar],综合影视,3,csp_TZFile,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 影巢[jar],综合影视,3,csp_Hdh,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 盘Ta[jar],网盘/磁力,3,csp_Panta,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 云盘[jar],网盘/磁力,3,csp_YunPan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 玩偶4k[jar],综合影视,3,csp_Wo4k,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,wogg.json,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 小盘盘[jar],网盘/磁力,3,csp_Xpanpan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 高清网[jar],综合影视,3,csp_Gaoqing,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 音范丝[jar],综合影视,3,csp_Gaoqing,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | TG搜索[jar],网盘/磁力,3,csp_TGYunPan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 影搜[jar],网盘/磁力,3,csp_YingSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 盘友圈,网盘/磁力,3,csp_Panyq,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 88网盘[jar],网盘/磁力,3,csp_EightEight,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 皮卡搜[jar],网盘/磁力,3,csp_PikaSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 混合盘[jar],网盘/磁力,3,csp_HunHePan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 秒搜[jar],网盘/磁力,3,csp_MiaoSou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | LIBVIO[jar],网盘/磁力,3,csp_Libvio,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 大盘搜[jar],网盘/磁力,3,csp_DaPanSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 千帆[jar],网盘/磁力,3,csp_Qianfan,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 小云[jar],网盘/磁力,3,csp_YunSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | 云盘[jar],网盘/磁力,3,csp_YunPanOne,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | 纸条[jar],网盘/磁力,3,csp_Gitcafe,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | 小紙條[jar],网盘/磁力,3,csp_XiaoZhiTiao,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | 七夜[jar],网盘/磁力,3,csp_Dovx,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | 盤搜索[jar],网盘/磁力,3,csp_PanSearch,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | 找資源[jar],网盘/磁力,3,csp_Zhaozy,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | 易搜[jar],网盘/磁力,3,csp_YiSo,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | 盘搜[jar],网盘/磁力,3,csp_PanSou,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,阿里 | up云搜[jar],网盘/磁力,3,csp_UpYun,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克  | 趣盘搜[jar],网盘/磁力,3,csp_Funletu,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克 | 盘搜[jar],网盘/磁力,3,csp_QuarkPanso,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 酷云77[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 快看[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 爱看[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 低端[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 南瓜影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | Auete[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | cokemv[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | LIBVIO[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | voflix[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 两个BT[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 量子影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 农民影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 在线之家[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 量子资源[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 369影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 热播库[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 蛋蛋剧[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | B站影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 凌云影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 孜然影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 我爱跟剧[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 干饭影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 秋霞影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 阿布影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 电影先生[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 落攻阁影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 69美剧[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 兄弟影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 4k剧院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 爱迪影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 539影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 333影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 996影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 188影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 哔嘀影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 7喜影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 18哈[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 567电影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | Fun4K[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | KOK影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | TVB云播[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | UrleBird[飞][js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 爱看影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 北川影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 尘落影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 达达龟[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 蛋蛋赞[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 多瑙影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 剧迷su[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 看韩剧[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 看了么[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 蓝光影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 首播影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 小白菜电影[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 影视工场[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 影视之家[V2][js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 悠久影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 中国人线上看[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 555电影[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 69美剧[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | cokemv[V2],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | UM电影[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 爱迪[V2][js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 宝片[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 刺桐[V2][js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 咕噜[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 吼吼[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 曲奇影视[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 影探[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 北极狐[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 大米星球[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 奈飞狗[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 思古影视[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 映迷[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 美益达[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 落攻阁影视[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 西门[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,MISSING,js/西门[V2].js,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 路人甲[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 鑫鑫[V2],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,官源 | 360[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,官源 | 芒果[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,官源 | 腾讯[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,官源 | 爱奇艺[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,官源 | 搜狗[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,官源 | 优酷[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 4KHDR[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 极影网[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | MP4电影[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 电影港[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 酷吧[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 新版6v[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 美剧迷[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 低端影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | libvio[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 团长影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | dydhhy[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 97tvs[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | rrdyw[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克 | 校长影视[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克 | 人人影视搜[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克 | 奇妙搜[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克 | 爱盘搜[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克 | 趣盘搜[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | meow搜[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,夸克 | 推送,网盘/磁力,3,csp_Quark,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,手机 | 推送[jar],工具/元数据,3,csp_Push,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 磁力熊[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,磁力 | 6V新版[js],网盘/磁力,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,少儿 | 童趣[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,少儿 | 兔小贝[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,少儿 | 有声绘本[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 哔哩合集[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 哔哩直播[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | 哔哩影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,弹幕 | JustLive[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,直播 | 斗鱼[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,直播 | 虎牙[js],直播,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,体育 | 310直播[js],体育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,体育 | 88看球[js],体育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,体育 | JRKAN直播[js],体育,3,./lib/drpy.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,体育 | 抓饭体育[js],体育,3,./lib/drpy.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,电视 | 好趣网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,相声 | 相声随身听[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,评书 | 评书随身听[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,格斗 | 武享吧[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,网盘 | Alist[js],网盘/磁力,3,./lib/alist.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 58动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | AGE动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | AnFuns[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | Anime1动畫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | NT动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | NyaFun[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 爱弹幕[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 动漫岛[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 路漫漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 喵次元[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 奇米动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 去看吧[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 曲奇动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 异世界动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,动漫 | 怡萱动漫[js],动漫/少儿/教育,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,音频 | A8音乐[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,音频 | DJ音乐[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,音频 | 啦啦DJ[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,音频 | 清风DJ[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,广播 | 广播迷FM[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,广播 | 蜻蜓FM[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,听书 | i275听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,听书 | 爱上你听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,听书 | 博看听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,听书 | 海洋听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,听书 | 六月听书[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,听书 | 有声小说[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,聚合 | 播客[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,聚合 | 短视频[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,聚合 | 酷6网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,聚合 | 网易公版[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,MV | 爱车MV[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,MV | 酷奇[js],音频/音乐,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 爱看机器人[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 爱看机器人2[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 爱看机器人3[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 百度测试[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 139影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 348电影网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 4K电影网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 8号影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | JangoIndex[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | NY影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 被窝电影[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 厂长资源[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 楚门影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 大米星球[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 飞兔影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 海兔影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 花猫TV[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 花屋影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 开眼视频[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 看了么[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 徕米TV[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 乐鱼影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 美剧网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 美视网[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 米爱影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 免费看[js],工具/元数据,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 奈飞中文[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 欧帝影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 皮皮鸭[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 朴樱影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 秋霞影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 热播之家[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 人人影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 骚火电影[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 时光影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 思古影视,综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 私人影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 素白白[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 网飞.TV[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 西瓜影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 蜥蜴影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 小狗影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 新视觉影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 星辰影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 玄天[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 映迷影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 中国人[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 追剧迷[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,影视 | 子子影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 大师兄影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 华乐影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 天天视频[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 起飞影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 兰花影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 胖虎[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 555影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | if101[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | KUBO影视[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 爱壹帆[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 独播库[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 欧乐影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,起飞 | 小宝影院[js],综合影视,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,應用商店,工具/元数据,3,csp_Market,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,配置接口完全免费,工具/元数据,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。
+js.json,请勿相信视频中任何广告,工具/元数据,3,./lib/drpy2.min.js,NOT_TESTED_PLUGIN_OR_SPECIAL,PRESENT_OR_EXTERNAL,,未运行 Android/JAR/JS/特殊客户端；文件检查或首页 HTTP 成功不等于来源可用。

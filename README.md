@@ -1,93 +1,57 @@
-FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+# 个人精简追剧配置
 
-所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
+基于 [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) 的公开接口整理。上游快照：`8213bb046f4dce746b5f2ddcddb13a336d0b0d60`（2024-11-17）。核验日期：2026-10-13。
 
-本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负。
+## 导入
 
-本仓库内容中涉及的第三方硬件、软件等，与本仓库内容没有任何直接或间接的关系。本仓库内容仅对部署和使用过程进行客观描述，不代表支持使用任何第三方硬件、软件。使用任何第三方硬件、软件，所造成的一切后果由使用的个人或组织承担，与本仓库内容无关。
+```text
+https://fastly.jsdelivr.net/gh/UltramanM78/gao-clean@master/clean.json
+```
 
-所有直接或间接使用本仓库内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本仓库内容。如对本仓库内容的功能有需求，应自行开发相关功能。所有基于本仓库内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本仓库内容没有任何直接或间接的关系，所造成的一切后果亦与本仓库内容和本仓库管理者无关。
+备用下载入口（同一配置，不是备用视频源）：
 
+```text
+https://cdn.jsdelivr.net/gh/UltramanM78/gao-clean@master/clean.json
+https://raw.githubusercontent.com/UltramanM78/gao-clean/master/clean.json
+```
 
-1. tvbox配置：
+使用 FongMi 设置中的点播配置导入。仅三个标准 JSON CMS 接口，无 JAR、JS、账号、网盘登录、壁纸或解析服务依赖。未添加自定义 DoH、代理或来源宣传条目。iOS 播放器仍需支持 TVBox type=1 配置；不承诺任意 iOS 播放器均兼容。
 
-（1）0707.json  Fengmi影视多线配置接口,仅适用于Fengmi影视；
+## 如何选主用和备用
 
-（2）0821.json  在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
+| 用途 | 主用 | 备用 | 实测依据 |
+|---|---|---|---|
+| 电视剧 | 量子 | 暴風 | 《兰香如故》抽样均能播放；量子缓冲余量更大，暴風为1080p |
+| 电影 | 非凡 | 量子 | 《流浪地球2》抽样：非凡下载余量略高，量子备用 |
+| 动漫 | 量子 | 非凡 | 《斗罗大陆》2018动漫版：两者片段下载均有余量 |
 
-（3）0825.json  jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.md ；
+三类选择合并为三个入口。表中主备是手动选择建议，并非播放器自动故障切换规则。主用仅指本次样本和当前测试网络的优先候选，不是全仓库性能最优的证明。
 
-（4）0826.json  完全来源于饭太硬的jar包和配置；
+## 验证边界
 
-（5）0827.json  jar包和配置来源于fongmi；
+- 已枚举所有7份来源配置的722个条目（594种执行配置），包含嵌套猫源配置；重复项、工具项也纳入清单。
+- 10种直连接口做了三类内容、每类两次协议测试。
+- 对可取得播放地址的4个提供商做了片段下载和媒体识别；最终3个提供商的9组内容都完成3秒音视频解码。
+- **689个 type=3 条目和其他特殊来源没有 Android/JAR/JS 运行环境，尚未完成实际搜索和播放验证。**它们未进入精简配置，但并未被认定为失效。
+- 283个可静态识别的站点首页做了两次连通性检查；首页返回200不能证明片库或播放可用，403也不能证明永久失效。
+- 性能为电脑网络的短时抽样，包含请求开销；并非家中电视测速、长时间稳定性或整个片库的保证。
+- “纯净”仅指精简配置不带推广和不必要依赖，不能保证第三方视频内无广告。
 
-（6）js.json  jar包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库；
+完整结果：[核验报告](AUDIT_REPORT.md)、[逐条清单](source-audit.csv)、[机器可读清单](source-audit.json)、[搜索原始结果](direct-search.json)、[视频测试](media-tests.json)。
 
-（7）XYQ.json  XYQ源，jar包和配置来源于香雅情；
+## 重新核验
 
-（8）/cat/js/config_open.json  cat源，资源暂停更新，如果有能力的大佬愿意发电，请联系我。
+使用 Python 3、Git、FFmpeg/ffprobe。建议创建虚拟环境后安装 `requirements-audit.txt`：
 
-2. APP推荐:
+```sh
+python3 -m pip install -r requirements-audit.txt
+python3 audit_inventory.py --repo . --out audit --ref 8213bb046f4dce746b5f2ddcddb13a336d0b0d60
+python3 audit_direct.py --out audit
+python3 audit_decode.py --out audit
+```
 
-（1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、自动换源、直播倍速，手机投屏；
+完整库存通过 Git 对象读取，避免 macOS 大小写文件名冲突。域名检查会复用同一输出目录中的已有结果；做全新网络复测时请指定一个新的 `--out` 目录。测试只读取接口及短视频片段，不下载整集，不执行上游插件，不自动更改或发布配置。
 
-（2）q215613905版本  项目地址：https://github.com/q215613905/TVBoxOS 支持直播回放；
+## 上游与更新
 
-（3）takagen99版本  项目地址：https://github.com/takagen99/Box 支持直播回放，界面美观；
-
-（4）猫影视   项目地址：https://github.com/catvod/CatVodOpen 界面简洁，支持多平台。
-
-3. TVBox各路大佬配置（排名不分先后）：
-
-（1）饭太硬：http://www.饭太硬.top/tv/
-
-（2）okjack：https://jihulab.com/okcaptain/kko/raw/main/ok.txt
-
-（3）王二小放牛娃：http://tvbox.王二小放牛娃.xyz
-
-（4）摸鱼儿：http://我不是.摸鱼儿.top
-
-（5）霜辉月明py：https://999740.xyz/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-
-（6）小米小爆脾气：http://xhww.fun/小米/DEMO.json
-
-（7）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-
-（8）神器：https://神器每日推送.tk/pz.json
-
-（9）巧技：http://pandown.pro/tvbox/tvbox.json
-
-（10）Ray：https://100km.top/0
-
-（11）俊于：http://home.jundie.top:81/top98.json
-
-4. 随机轮换壁纸：
-
-（1）https://jianbian.chuqiuyu.workers.dev 自制极简渐变壁纸
-
-（2）http://www.kf666888.cn/api/tvbox/img
-
-（3）https://picsum.photos/1280/720/?blur=10
-
-（4）http://刚刚.live/图 
-
-（5）http://饭.eu.org/深色壁纸/api.php,
-
-（6）https://www.dmoe.cc/random.php
-
-（7）https://api.btstu.cn/sjbz/zsy.php
-
-（8）https://api.btstu.cn/sjbz/?lx=dongman
-
-（9）http://api.btstu.cn/sjbz/?lx=meizi
-
-（10）http://api.btstu.cn/sjbz/?lx=suiji
-
-（11）https://pictures.catvod.eu.org/
-
-（12）https://bing.img.run/rand.php
-
-自用仓库，如果喜欢，请Fork自用，谢谢！
-
-尽自己所能更新，不保证配置的有效性和时效性。
-
+保留原仓库文件作为对照；电视只导入 `clean.json`。上游说明保存在 [UPSTREAM_README.md](UPSTREAM_README.md)。同步上游不等于更新精简配置；新增接口必须重新验证。没有设置定时任务或自动发布流程。

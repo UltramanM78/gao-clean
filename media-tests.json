@@ -1,0 +1,1073 @@
+[
+  {
+    "provider": "百度┃采集",
+    "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+    "type": 1,
+    "genre": "电视剧",
+    "query": "兰香如故",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 1.5067,
+        "bytes": 266847,
+        "media_seconds": 2.0,
+        "mbps": 1.417,
+        "headroom": 1.327,
+        "host": "tsb3.bdzybf22.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.5934,
+        "bytes": 274743,
+        "media_seconds": 2.0,
+        "mbps": 1.379,
+        "headroom": 1.255,
+        "host": "tsb3.bdzybf22.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.7738,
+        "bytes": 302379,
+        "media_seconds": 2.0,
+        "mbps": 1.364,
+        "headroom": 1.128,
+        "host": "tsb3.bdzybf22.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.8262,
+        "bytes": 266847,
+        "media_seconds": 2.0,
+        "mbps": 1.169,
+        "headroom": 1.095,
+        "host": "tsb3.bdzybf22.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.6566,
+        "bytes": 274743,
+        "media_seconds": 2.0,
+        "mbps": 1.327,
+        "headroom": 1.207,
+        "host": "tsb3.bdzybf22.com"
+      }
+    ],
+    "errors": [
+      "SSLError: HTTPSConnectionPool(host='tsb3.bdzybf22.com', port=443): Max retries exceeded with url: /videos/202609/11/6aa4108e1163f3d4efbadc08"
+    ],
+    "episodes": 47,
+    "episode": "第01集",
+    "playlist": "https://b3.bdzybf22.com/videos/202609/11/6aa4108e1163f3d4efbadc08/32d9d8/index.m3u8",
+    "playlist_seconds": 1.878,
+    "probe": {
+      "returncode": 1,
+      "streams": [],
+      "stderr": "1c000] URL https://tsb3.bdzybf22.com/videos/202609/11/6aa4108e1163f3d4efbadc08/32d9d8/index0.jpeg is not in allowed_segment_extensions, consider updating hls.c and submitting a patch to ffmpeg-devel, if this should be added\nhttps://b3.bdzybf22.com/videos/202609/11/6aa4108e1163f3d4efbadc08/32d9d8/index.m3u8: Invalid data found when processing input\n"
+    },
+    "summary": {
+      "success": 5,
+      "expected": 6,
+      "median_mbps": 1.364,
+      "median_headroom": 1.207,
+      "min_headroom": 1.095,
+      "below_realtime": 0
+    },
+    "probe_retry": {
+      "returncode": 0,
+      "stderr": "",
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "note": "Retry permits actual HLS media under .jpeg suffix; previous failure was extension policy, not proof of dead source"
+    }
+  },
+  {
+    "provider": "百度┃采集",
+    "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+    "type": 1,
+    "genre": "电影",
+    "query": "流浪地球2",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 3.064,
+        "bytes": 295235,
+        "media_seconds": 2.0,
+        "mbps": 0.771,
+        "headroom": 0.653,
+        "host": "tsb2.bdzybf22.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.6885,
+        "bytes": 301251,
+        "media_seconds": 2.0,
+        "mbps": 1.427,
+        "headroom": 1.184,
+        "host": "tsb2.bdzybf22.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.794,
+        "bytes": 289031,
+        "media_seconds": 2.0,
+        "mbps": 1.289,
+        "headroom": 1.115,
+        "host": "tsb2.bdzybf22.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.4035,
+        "bytes": 295235,
+        "media_seconds": 2.0,
+        "mbps": 1.683,
+        "headroom": 1.425,
+        "host": "tsb2.bdzybf22.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.4822,
+        "bytes": 301251,
+        "media_seconds": 2.0,
+        "mbps": 1.626,
+        "headroom": 1.349,
+        "host": "tsb2.bdzybf22.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.617,
+        "bytes": 289031,
+        "media_seconds": 2.0,
+        "mbps": 1.43,
+        "headroom": 1.237,
+        "host": "tsb2.bdzybf22.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 1,
+    "episode": "HD中字",
+    "playlist": "https://b2.bdzybf22.com/videos/202505/02/68028391b8f7ad13cb042f51/e648fa/index.m3u8",
+    "playlist_seconds": 3.4,
+    "probe": {
+      "returncode": 1,
+      "streams": [],
+      "stderr": "1c000] URL https://tsb2.bdzybf22.com/videos/202505/02/68028391b8f7ad13cb042f51/e648fa/index0.jpeg is not in allowed_segment_extensions, consider updating hls.c and submitting a patch to ffmpeg-devel, if this should be added\nhttps://b2.bdzybf22.com/videos/202505/02/68028391b8f7ad13cb042f51/e648fa/index.m3u8: Invalid data found when processing input\n"
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 1.429,
+      "median_headroom": 1.211,
+      "min_headroom": 0.653,
+      "below_realtime": 1
+    },
+    "probe_retry": {
+      "returncode": 0,
+      "stderr": "",
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 536
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "note": "Retry permits actual HLS media under .jpeg suffix; previous failure was extension policy, not proof of dead source"
+    }
+  },
+  {
+    "provider": "量子",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "电视剧",
+    "query": "兰香如故",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 0.7596,
+        "bytes": 1084384,
+        "media_seconds": 7.04,
+        "mbps": 11.421,
+        "headroom": 9.268,
+        "host": "v.lzcdn27.com"
+      },
+      {
+        "round": 1,
+        "seconds": 0.6836,
+        "bytes": 495380,
+        "media_seconds": 3.6,
+        "mbps": 5.797,
+        "headroom": 5.266,
+        "host": "v.lzcdn27.com"
+      },
+      {
+        "round": 1,
+        "seconds": 0.6808,
+        "bytes": 537116,
+        "media_seconds": 3.92,
+        "mbps": 6.312,
+        "headroom": 5.758,
+        "host": "v.lzcdn27.com"
+      },
+      {
+        "round": 2,
+        "seconds": 0.732,
+        "bytes": 1084384,
+        "media_seconds": 7.04,
+        "mbps": 11.852,
+        "headroom": 9.618,
+        "host": "v.lzcdn27.com"
+      },
+      {
+        "round": 2,
+        "seconds": 0.6984,
+        "bytes": 495380,
+        "media_seconds": 3.6,
+        "mbps": 5.675,
+        "headroom": 5.155,
+        "host": "v.lzcdn27.com"
+      },
+      {
+        "round": 2,
+        "seconds": 0.6635,
+        "bytes": 537116,
+        "media_seconds": 3.92,
+        "mbps": 6.476,
+        "headroom": 5.908,
+        "host": "v.lzcdn27.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 47,
+    "episode": "第01集",
+    "playlist": "https://v.lzcdn27.com/20260911/16824_7311a09b/index.m3u8",
+    "playlist_seconds": 1.051,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 606
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 6.394,
+      "median_headroom": 5.833,
+      "min_headroom": 5.155,
+      "below_realtime": 0
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "量子",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "电影",
+    "query": "流浪地球2",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 2.1177,
+        "bytes": 696164,
+        "media_seconds": 5.75,
+        "mbps": 2.63,
+        "headroom": 2.715,
+        "host": "hd.lz-cdn18.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.8204,
+        "bytes": 285196,
+        "media_seconds": 3.041667,
+        "mbps": 1.253,
+        "headroom": 1.671,
+        "host": "hd.lz-cdn18.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.6928,
+        "bytes": 192136,
+        "media_seconds": 2.791667,
+        "mbps": 0.908,
+        "headroom": 1.649,
+        "host": "hd.lz-cdn18.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.767,
+        "bytes": 696164,
+        "media_seconds": 5.75,
+        "mbps": 3.152,
+        "headroom": 3.254,
+        "host": "hd.lz-cdn18.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.665,
+        "bytes": 285196,
+        "media_seconds": 3.041667,
+        "mbps": 1.37,
+        "headroom": 1.827,
+        "host": "hd.lz-cdn18.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.3034,
+        "bytes": 192136,
+        "media_seconds": 2.791667,
+        "mbps": 1.179,
+        "headroom": 2.142,
+        "host": "hd.lz-cdn18.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 1,
+    "episode": "HD中字",
+    "playlist": "https://hd.lz-cdn18.com/20230414/1866_7d8603d9/index.m3u8",
+    "playlist_seconds": 2.757,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 800
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 1.312,
+      "median_headroom": 1.984,
+      "min_headroom": 1.649,
+      "below_realtime": 0
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "量子",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "动漫",
+    "query": "斗罗大陆",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 1.913,
+        "bytes": 325240,
+        "media_seconds": 3.333333,
+        "mbps": 1.36,
+        "headroom": 1.742,
+        "host": "vip.lz-cdn4.com"
+      },
+      {
+        "round": 1,
+        "seconds": 2.6043,
+        "bytes": 1098484,
+        "media_seconds": 6.666667,
+        "mbps": 3.374,
+        "headroom": 2.56,
+        "host": "vip.lz-cdn4.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.6422,
+        "bytes": 319224,
+        "media_seconds": 3.333333,
+        "mbps": 1.555,
+        "headroom": 2.03,
+        "host": "vip.lz-cdn4.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.8149,
+        "bytes": 325240,
+        "media_seconds": 3.333333,
+        "mbps": 1.434,
+        "headroom": 1.837,
+        "host": "vip.lz-cdn4.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.7703,
+        "bytes": 1098484,
+        "media_seconds": 6.666667,
+        "mbps": 4.964,
+        "headroom": 3.766,
+        "host": "vip.lz-cdn4.com"
+      },
+      {
+        "round": 2,
+        "seconds": 2.0199,
+        "bytes": 319224,
+        "media_seconds": 3.333333,
+        "mbps": 1.264,
+        "headroom": 1.65,
+        "host": "vip.lz-cdn4.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 265,
+    "episode": "第01集",
+    "playlist": "https://vip.lz-cdn4.com/20220321/1_152e6eba/index.m3u8",
+    "playlist_seconds": 3.742,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 606
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 1.494,
+      "median_headroom": 1.933,
+      "min_headroom": 1.65,
+      "below_realtime": 0
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "非凡",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "电视剧",
+    "query": "兰香如故",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 2.688,
+        "bytes": 556480,
+        "media_seconds": 3.6,
+        "mbps": 1.656,
+        "headroom": 1.339,
+        "host": "super.ffzy-online6.com"
+      },
+      {
+        "round": 1,
+        "seconds": 2.1117,
+        "bytes": 601788,
+        "media_seconds": 3.92,
+        "mbps": 2.28,
+        "headroom": 1.856,
+        "host": "super.ffzy-online6.com"
+      },
+      {
+        "round": 1,
+        "seconds": 2.3016,
+        "bytes": 326368,
+        "media_seconds": 2.08,
+        "mbps": 1.134,
+        "headroom": 0.904,
+        "host": "super.ffzy-online6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 2.0153,
+        "bytes": 556480,
+        "media_seconds": 3.6,
+        "mbps": 2.209,
+        "headroom": 1.786,
+        "host": "super.ffzy-online6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 2.5707,
+        "bytes": 601788,
+        "media_seconds": 3.92,
+        "mbps": 1.873,
+        "headroom": 1.525,
+        "host": "super.ffzy-online6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 2.1862,
+        "bytes": 326368,
+        "media_seconds": 2.08,
+        "mbps": 1.194,
+        "headroom": 0.951,
+        "host": "super.ffzy-online6.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 47,
+    "episode": "第01集",
+    "playlist": "https://super.ffzy-online6.com/20260911/40829_dda2dd73/index.m3u8",
+    "playlist_seconds": 2.392,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 1.764,
+      "median_headroom": 1.432,
+      "min_headroom": 0.904,
+      "below_realtime": 2
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "非凡",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "电影",
+    "query": "流浪地球2",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 2.3988,
+        "bytes": 674544,
+        "media_seconds": 4.166667,
+        "mbps": 2.25,
+        "headroom": 1.737,
+        "host": "vip.ffzy-online2.com"
+      },
+      {
+        "round": 1,
+        "seconds": 2.1664,
+        "bytes": 697104,
+        "media_seconds": 5.75,
+        "mbps": 2.574,
+        "headroom": 2.654,
+        "host": "vip.ffzy-online2.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.9706,
+        "bytes": 285008,
+        "media_seconds": 3.041667,
+        "mbps": 1.157,
+        "headroom": 1.544,
+        "host": "vip.ffzy-online2.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.5446,
+        "bytes": 674544,
+        "media_seconds": 4.166667,
+        "mbps": 3.494,
+        "headroom": 2.698,
+        "host": "vip.ffzy-online2.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.9568,
+        "bytes": 697104,
+        "media_seconds": 5.75,
+        "mbps": 2.85,
+        "headroom": 2.938,
+        "host": "vip.ffzy-online2.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.83,
+        "bytes": 285008,
+        "media_seconds": 3.041667,
+        "mbps": 1.246,
+        "headroom": 1.662,
+        "host": "vip.ffzy-online2.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 1,
+    "episode": "HD国语",
+    "playlist": "https://vip.ffzy-online2.com/20230416/32868_9cb1983d/index.m3u8",
+    "playlist_seconds": 2.323,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 800
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 2.412,
+      "median_headroom": 2.196,
+      "min_headroom": 1.544,
+      "below_realtime": 0
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "非凡",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "动漫",
+    "query": "斗罗大陆",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 1.8835,
+        "bytes": 304936,
+        "media_seconds": 3.333,
+        "mbps": 1.295,
+        "headroom": 1.77,
+        "host": "vip.ffzy-online5.com"
+      },
+      {
+        "round": 1,
+        "seconds": 3.312,
+        "bytes": 807648,
+        "media_seconds": 3.433,
+        "mbps": 1.951,
+        "headroom": 1.037,
+        "host": "vip.ffzy-online5.com"
+      },
+      {
+        "round": 1,
+        "seconds": 2.8048,
+        "bytes": 1093972,
+        "media_seconds": 6.167,
+        "mbps": 3.12,
+        "headroom": 2.199,
+        "host": "vip.ffzy-online5.com"
+      },
+      {
+        "round": 2,
+        "seconds": 2.3129,
+        "bytes": 304936,
+        "media_seconds": 3.333,
+        "mbps": 1.055,
+        "headroom": 1.441,
+        "host": "vip.ffzy-online5.com"
+      },
+      {
+        "round": 2,
+        "seconds": 2.1304,
+        "bytes": 807648,
+        "media_seconds": 3.433,
+        "mbps": 3.033,
+        "headroom": 1.611,
+        "host": "vip.ffzy-online5.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.6733,
+        "bytes": 1093972,
+        "media_seconds": 6.167,
+        "mbps": 5.23,
+        "headroom": 3.686,
+        "host": "vip.ffzy-online5.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 265,
+    "episode": "第01集",
+    "playlist": "https://vip.ffzy-online5.com/20221109/2746_ee8f9369/index.m3u8",
+    "playlist_seconds": 3.369,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 2.492,
+      "median_headroom": 1.691,
+      "min_headroom": 1.037,
+      "below_realtime": 0
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "暴風┃采集",
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "电视剧",
+    "query": "兰香如故",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 0.772,
+        "bytes": 893188,
+        "media_seconds": 3.0,
+        "mbps": 9.256,
+        "headroom": 3.886,
+        "host": "fengbao12.com"
+      },
+      {
+        "round": 1,
+        "seconds": 0.7358,
+        "bytes": 892436,
+        "media_seconds": 2.48,
+        "mbps": 9.703,
+        "headroom": 3.37,
+        "host": "fengbao12.com"
+      },
+      {
+        "round": 1,
+        "seconds": 0.8293,
+        "bytes": 882660,
+        "media_seconds": 2.96,
+        "mbps": 8.514,
+        "headroom": 3.569,
+        "host": "fengbao12.com"
+      },
+      {
+        "round": 2,
+        "seconds": 0.7504,
+        "bytes": 893188,
+        "media_seconds": 3.0,
+        "mbps": 9.523,
+        "headroom": 3.998,
+        "host": "fengbao12.com"
+      },
+      {
+        "round": 2,
+        "seconds": 0.8185,
+        "bytes": 892436,
+        "media_seconds": 2.48,
+        "mbps": 8.723,
+        "headroom": 3.03,
+        "host": "fengbao12.com"
+      },
+      {
+        "round": 2,
+        "seconds": 0.7501,
+        "bytes": 882660,
+        "media_seconds": 2.96,
+        "mbps": 9.414,
+        "headroom": 3.946,
+        "host": "fengbao12.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 47,
+    "episode": "第1集",
+    "playlist": "https://fengbao12.com/video/lanxiangrugu/b7dbece99e0a/index.m3u8",
+    "playlist_seconds": 0.501,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 9.335,
+      "median_headroom": 3.728,
+      "min_headroom": 3.03,
+      "below_realtime": 0
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "暴風┃采集",
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "电影",
+    "query": "流浪地球2",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 1.9112,
+        "bytes": 424504,
+        "media_seconds": 2.92,
+        "mbps": 1.777,
+        "headroom": 1.528,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 1,
+        "seconds": 2.164,
+        "bytes": 1124240,
+        "media_seconds": 3.0,
+        "mbps": 4.156,
+        "headroom": 1.386,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 1,
+        "seconds": 2.1266,
+        "bytes": 863108,
+        "media_seconds": 2.88,
+        "mbps": 3.247,
+        "headroom": 1.354,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.5025,
+        "bytes": 424504,
+        "media_seconds": 2.92,
+        "mbps": 2.26,
+        "headroom": 1.943,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.5444,
+        "bytes": 1124240,
+        "media_seconds": 3.0,
+        "mbps": 5.824,
+        "headroom": 1.943,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 2.065,
+        "bytes": 863108,
+        "media_seconds": 2.88,
+        "mbps": 3.344,
+        "headroom": 1.395,
+        "host": "c1.rrcdnbf6.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 1,
+    "episode": "HD",
+    "playlist": "https://c1.rrcdnbf6.com/video/liulangdiqiu2/HD/index.m3u8",
+    "playlist_seconds": 1.593,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 536
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 3.295,
+      "median_headroom": 1.462,
+      "min_headroom": 1.354,
+      "below_realtime": 0
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  },
+  {
+    "provider": "暴風┃采集",
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "type": 1,
+    "genre": "动漫",
+    "query": "斗罗大陆",
+    "samples": [
+      {
+        "round": 1,
+        "seconds": 2.1534,
+        "bytes": 522076,
+        "media_seconds": 2.0,
+        "mbps": 1.94,
+        "headroom": 0.929,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.9214,
+        "bytes": 366600,
+        "media_seconds": 2.0,
+        "mbps": 1.526,
+        "headroom": 1.041,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 1,
+        "seconds": 1.7901,
+        "bytes": 208492,
+        "media_seconds": 2.0,
+        "mbps": 0.932,
+        "headroom": 1.117,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.9197,
+        "bytes": 522076,
+        "media_seconds": 2.0,
+        "mbps": 2.176,
+        "headroom": 1.042,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.3564,
+        "bytes": 366600,
+        "media_seconds": 2.0,
+        "mbps": 2.162,
+        "headroom": 1.475,
+        "host": "c1.rrcdnbf6.com"
+      },
+      {
+        "round": 2,
+        "seconds": 1.8492,
+        "bytes": 208492,
+        "media_seconds": 2.0,
+        "mbps": 0.902,
+        "headroom": 1.082,
+        "host": "c1.rrcdnbf6.com"
+      }
+    ],
+    "errors": [],
+    "episodes": 265,
+    "episode": "90分钟结局",
+    "playlist": "https://c1.rrcdnbf6.com/video/douluodalu/90分钟结局/index.m3u8",
+    "playlist_seconds": 1.156,
+    "probe": {
+      "returncode": 0,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 536
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "stderr": ""
+    },
+    "summary": {
+      "success": 6,
+      "expected": 6,
+      "median_mbps": 1.733,
+      "median_headroom": 1.062,
+      "min_headroom": 0.929,
+      "below_realtime": 1
+    },
+    "decode": {
+      "returncode": 0,
+      "stderr": "",
+      "offset_s": 600,
+      "duration_s": 3
+    }
+  }
+]
