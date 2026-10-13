@@ -27,5 +27,12 @@
       "quickSearch": 1,
       "filterable": 0
     }
+  ],
+  "lives": [
+    {
+      "name": "精选电视·体育·音乐电台",
+      "type": 0,
+      "url": "https://fastly.jsdelivr.net/gh/UltramanM78/gao-clean@master/live.m3u"
+    }
   ]
 }

@@ -1,0 +1,2872 @@
+[
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 6.74,
+        "streams": [],
+        "error": "[tcp @ 0xc5b040000] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.395,
+        "streams": [],
+        "error": "[tcp @ 0x97d048000] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 6.745,
+        "streams": [],
+        "error": "[tcp @ 0xa11048000] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.389,
+        "streams": [],
+        "error": "[tcp @ 0xb01044000] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "group": "CCTV",
+    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 6.738,
+        "streams": [],
+        "error": "[tcp @ 0xb23044000] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.398,
+        "streams": [],
+        "error": "[tcp @ 0x7b7040000] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 6.734,
+        "streams": [],
+        "error": "[tcp @ 0x956c035c0] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.4,
+        "streams": [],
+        "error": "[tcp @ 0xb79044000] Connection to tcp://ottrrs.hl.chinamobile.com:80 failed: Operation timed out\nhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 6.324,
+        "streams": [],
+        "error": "[tcp @ 0xb72c8c000] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.084,
+        "streams": [],
+        "error": "[tcp @ 0x7becac000] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "group": "CCTV",
+    "url": "http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 6.325,
+        "streams": [],
+        "error": "[tcp @ 0x736cac000] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.084,
+        "streams": [],
+        "error": "[tcp @ 0xbd8c88000] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.104,
+        "streams": [],
+        "error": "[tcp @ 0x9f2ca8000] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.108,
+        "streams": [],
+        "error": "[tcp @ 0x754cac000] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV8",
+    "group": "CCTV",
+    "url": "http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.101,
+        "streams": [],
+        "error": "[tcp @ 0xaa1008400] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.106,
+        "streams": [],
+        "error": "[tcp @ 0xbdaca8000] Connection to tcp://39.134.67.108:80 failed: Operation timed out\nhttp://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "北京卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.11,
+        "streams": [],
+        "error": "[tcp @ 0xbaec48000] Connection to tcp://39.134.65.179:80 failed: Operation timed out\nhttp://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.099,
+        "streams": [],
+        "error": "[tcp @ 0xaf2cac000] Connection to tcp://39.134.65.179:80 failed: Operation timed out\nhttp://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "北京卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.102,
+        "streams": [],
+        "error": "[tcp @ 0xae485c000] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.106,
+        "streams": [],
+        "error": "[tcp @ 0xc54c88000] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.107,
+        "streams": [],
+        "error": "[tcp @ 0x73cc90000] Connection to tcp://39.134.65.179:80 failed: Operation timed out\nhttp://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.099,
+        "streams": [],
+        "error": "[tcp @ 0xc68ca8000] Connection to tcp://39.134.65.179:80 failed: Operation timed out\nhttp://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.098,
+        "streams": [],
+        "error": "[tcp @ 0x8e0cac000] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.105,
+        "streams": [],
+        "error": "[tcp @ 0xa00cac000] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.106,
+        "streams": [],
+        "error": "[tcp @ 0xc85008400] Connection to tcp://39.134.65.175:80 failed: Operation timed out\nhttp://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.091,
+        "streams": [],
+        "error": "[tcp @ 0xb48ca8000] Connection to tcp://39.134.65.175:80 failed: Operation timed out\nhttp://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.101,
+        "streams": [],
+        "error": "[tcp @ 0xb66c8c000] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.092,
+        "streams": [],
+        "error": "[tcp @ 0x965008400] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.105,
+        "streams": [],
+        "error": "[tcp @ 0xbfcca8000] Connection to tcp://39.134.65.183:80 failed: Operation timed out\nhttp://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.108,
+        "streams": [],
+        "error": "[tcp @ 0x8a4c8c000] Connection to tcp://39.134.65.183:80 failed: Operation timed out\nhttp://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.105,
+        "streams": [],
+        "error": "[tcp @ 0x9d7008400] Connection to tcp://39.134.65.175:80 failed: Operation timed out\nhttp://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.108,
+        "streams": [],
+        "error": "[tcp @ 0x870cb0000] Connection to tcp://39.134.65.175:80 failed: Operation timed out\nhttp://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "500首华语经典",
+    "group": "央广",
+    "url": "http://ls.qingting.fm/live/3412131.m3u8?bitrate=64",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.694,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.382,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "CRI Hit FM FM88.7",
+    "group": "央广",
+    "url": "http://sk.cri.cn/887.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.157,
+        "streams": [],
+        "error": "http://sk.cri.cn/887.m3u8: Server returned 404 Not Found\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.111,
+        "streams": [],
+        "error": "http://sk.cri.cn/887.m3u8: Server returned 404 Not Found\n"
+      }
+    ]
+  },
+  {
+    "name": "CRI 怀旧金曲频道",
+    "group": "央广",
+    "url": "https://lhttp.qingting.fm/live/5022038/64k.mp3",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.734,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.711,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "CNR 音乐之声",
+    "group": "央广",
+    "url": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.148,
+        "streams": [],
+        "error": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8: Server returned 403 Forbidden (access denied)\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.063,
+        "streams": [],
+        "error": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8: Server returned 403 Forbidden (access denied)\n"
+      }
+    ]
+  },
+  {
+    "name": "CNR 经典音乐广播 101.8",
+    "group": "央广",
+    "url": "http://ngcdn004.cnr.cn/live/dszs/index.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 1.265,
+        "streams": [],
+        "error": "http://ngcdn004.cnr.cn/live/dszs/index.m3u8: Server returned 403 Forbidden (access denied)\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.082,
+        "streams": [],
+        "error": "http://ngcdn004.cnr.cn/live/dszs/index.m3u8: Server returned 403 Forbidden (access denied)\n"
+      }
+    ]
+  },
+  {
+    "name": "清晨音乐台",
+    "group": "央广",
+    "url": "http://lhttp.qingting.fm/live/4915/64k.mp3",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.446,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.619,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "1766線上電臺-私房音樂",
+    "group": "世界",
+    "url": "http://livestream.1766.today:1769/live1.mp3",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.437,
+        "streams": [],
+        "error": "[tcp @ 0xb7b0200a0] Connection to tcp://livestream.1766.today:1769 failed: Operation timed out\nhttp://livestream.1766.today:1769/live1.mp3: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.091,
+        "streams": [],
+        "error": "[tcp @ 0xaecc03660] Connection to tcp://livestream.1766.today:1769 failed: Operation timed out\nhttp://livestream.1766.today:1769/live1.mp3: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "辽宁文艺广播",
+    "group": "音乐",
+    "url": "http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 3.234,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.148,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "江苏音乐广播",
+    "group": "音乐",
+    "url": "http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 3.131,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.122,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "河南音乐广播",
+    "group": "音乐",
+    "url": "http://stream.hndt.com/live/yinyue/playlist.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.635,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.275,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "河南古典音乐天籁广播",
+    "group": "音乐",
+    "url": "http://stream.hndt.com/live/gudian/chunklist_w1085892077.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.513,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.215,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "成都休闲文化广播",
+    "group": "音乐",
+    "url": "http://livecdn.pull.cdbs.com.cn/live/fm946.flv",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.723,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.073,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "赤峯汉语综合广播 FM96",
+    "group": "音乐",
+    "url": "http://live.xmcdn.com/live/1085/64.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.231,
+        "streams": [],
+        "error": "http://live.xmcdn.com/live/1085/64.m3u8: Invalid data found when processing input\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.148,
+        "streams": [],
+        "error": "http://live.xmcdn.com/live/1085/64.m3u8: Invalid data found when processing input\n"
+      }
+    ]
+  },
+  {
+    "name": "九江交通广播 FM88.4 FM88.9",
+    "group": "音乐",
+    "url": "http://ls.qingting.fm/live/2785094.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.397,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.464,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "龙广都市女性台 FM102.1",
+    "group": "音乐",
+    "url": "http://stream3.hljtv.com/hljrd97/sd/live.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.231,
+        "streams": [],
+        "error": "[tcp @ 0x70ec88000] Failed to resolve hostname stream3.hljtv.com: nodename nor servname provided, or not known\nhttp://stream3.hljtv.com/hljrd97/sd/live.m3u8: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.037,
+        "streams": [],
+        "error": "[tcp @ 0xa44cac000] Failed to resolve hostname stream3.hljtv.com: nodename nor servname provided, or not known\nhttp://stream3.hljtv.com/hljrd97/sd/live.m3u8: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "龙广高校广播 FM99.3",
+    "group": "音乐",
+    "url": "http://stream3.hljtv.com/hljrdgx/sd/live.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.168,
+        "streams": [],
+        "error": "[tcp @ 0xbc3008400] Failed to resolve hostname stream3.hljtv.com: nodename nor servname provided, or not known\nhttp://stream3.hljtv.com/hljrdgx/sd/live.m3u8: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.038,
+        "streams": [],
+        "error": "[tcp @ 0x756ca8000] Failed to resolve hostname stream3.hljtv.com: nodename nor servname provided, or not known\nhttp://stream3.hljtv.com/hljrdgx/sd/live.m3u8: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "宁波经济广播 FM102.9",
+    "group": "音乐",
+    "url": "http://live.xmcdn.com/live/649/64.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.533,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.2,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "陕西青春广播 FM105.5",
+    "group": "音乐",
+    "url": "http://radio.sxtvs.com/radio/kids.mp3",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.068,
+        "streams": [],
+        "error": "[tcp @ 0x7c4ca8000] Failed to resolve hostname radio.sxtvs.com: nodename nor servname provided, or not known\nhttp://radio.sxtvs.com/radio/kids.mp3: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.039,
+        "streams": [],
+        "error": "[tcp @ 0xca1008400] Failed to resolve hostname radio.sxtvs.com: nodename nor servname provided, or not known\nhttp://radio.sxtvs.com/radio/kids.mp3: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "BCC中广音乐",
+    "group": "YueChan",
+    "url": "http://stream.rcs.revma.com/ks4vsmg3qtzuv",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 3.085,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 1.941,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "民谣音乐",
+    "group": "YueChan",
+    "url": "http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.297,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.275,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "BBC Radio 6 Music",
+    "group": "YueChan",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.262,
+        "streams": [],
+        "error": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8: Server returned 4XX Client Error, but not one of 40{0,1,3,4}\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.135,
+        "streams": [],
+        "error": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8: Server returned 4XX Client Error, but not one of 40{0,1,3,4}\n"
+      }
+    ]
+  },
+  {
+    "name": "北京体育广播 FM102.5",
+    "group": "地方",
+    "url": "http://ls.qingting.fm/live/335.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.124,
+        "streams": [],
+        "error": "http://ls.qingting.fm/live/335.m3u8: Server returned 404 Not Found\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.129,
+        "streams": [],
+        "error": "http://ls.qingting.fm/live/335.m3u8: Server returned 404 Not Found\n"
+      }
+    ]
+  },
+  {
+    "name": "江苏经典流行音乐 FM97.5",
+    "group": "地方",
+    "url": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.758,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.273,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "江苏音乐广播 FM89.7",
+    "group": "地方",
+    "url": "http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.955,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.351,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "荆门交通音乐频率 FM99.3",
+    "group": "地方",
+    "url": "http://live.jmtv.com.cn/jtyypl/sd/live.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.881,
+        "streams": [],
+        "error": "http://live.jmtv.com.cn/jtyypl/sd/live.m3u8: Server returned 404 Not Found\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.111,
+        "streams": [],
+        "error": "http://live.jmtv.com.cn/jtyypl/sd/live.m3u8: Server returned 404 Not Found\n"
+      }
+    ]
+  },
+  {
+    "name": "秦皇岛体育音乐广播 FM97.3",
+    "group": "地方",
+    "url": "http://live.xmcdn.com/live/522/64.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.339,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.175,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "山东体育广播 FM102.1",
+    "group": "地方",
+    "url": "http://live.xmcdn.com/live/805/64.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 1.37,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.75,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "山东体育广播 FM102.1",
+    "group": "地方",
+    "url": "http://ls.qingting.fm/live/60266.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.098,
+        "streams": [],
+        "error": "http://ls.qingting.fm/live/60266.m3u8: Server returned 404 Not Found\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.105,
+        "streams": [],
+        "error": "http://ls.qingting.fm/live/60266.m3u8: Server returned 404 Not Found\n"
+      }
+    ]
+  },
+  {
+    "name": "陕西音乐广播 FM98.8",
+    "group": "地方",
+    "url": "http://radio.sxtvs.com/radio/music.mp3",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.038,
+        "streams": [],
+        "error": "[tcp @ 0xa17008400] Failed to resolve hostname radio.sxtvs.com: nodename nor servname provided, or not known\nhttp://radio.sxtvs.com/radio/music.mp3: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.035,
+        "streams": [],
+        "error": "[tcp @ 0xaa8ca8000] Failed to resolve hostname radio.sxtvs.com: nodename nor servname provided, or not known\nhttp://radio.sxtvs.com/radio/music.mp3: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "五星体育 FM94.0",
+    "group": "地方",
+    "url": "http://rs.ajmide.com/r_4/4.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.97,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.663,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "西安音乐广播 FM93.1",
+    "group": "地方",
+    "url": "http://stream3.xiancity.cn/4/sd/live.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.601,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.113,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "青岛音乐•体育广播",
+    "group": "中国广播",
+    "url": "http://lhttp.qingting.fm/live/1677/64k.mp3",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.536,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.72,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "大连-大连体育广播",
+    "group": "中国广播",
+    "url": "http://lhttp.qingting.fm/live/1085/64k.mp3",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.508,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.491,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "古典-ChineseMusicWorld",
+    "group": "中国广播",
+    "url": "http://radio.chinesemusicworld.com/chinesemusic.ogg",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 1.735,
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 1.077,
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "山东-HotseMusicRadio",
+    "group": "中国广播",
+    "url": "http://live.hznet.tv:1935/live/live918/32K/tzwj_video.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 1.339,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.397,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "山东-新泰音乐广播",
+    "group": "中国广播",
+    "url": "http://live.xtgdw.cn:1935/live/xtlh/playlist.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 4.54,
+        "streams": [],
+        "error": "[tcp @ 0x77f008480] Connection to tcp://live.xtgdw.cn:1935 failed: Connection refused\nhttp://live.xtgdw.cn:1935/live/xtlh/playlist.m3u8: Connection refused\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.333,
+        "streams": [],
+        "error": "[tcp @ 0xbd3008400] Connection to tcp://live.xtgdw.cn:1935 failed: Connection refused\nhttp://live.xtgdw.cn:1935/live/xtlh/playlist.m3u8: Connection refused\n"
+      }
+    ]
+  },
+  {
+    "name": "上海-上海经典音乐广播",
+    "group": "中国广播",
+    "url": "http://l3.smgtech.net/AppName/1197.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.063,
+        "streams": [],
+        "error": "[tcp @ 0x9aac84000] Failed to resolve hostname l3.smgtech.net: nodename nor servname provided, or not known\nhttp://l3.smgtech.net/AppName/1197.m3u8: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.038,
+        "streams": [],
+        "error": "[tcp @ 0x7eccac000] Failed to resolve hostname l3.smgtech.net: nodename nor servname provided, or not known\nhttp://l3.smgtech.net/AppName/1197.m3u8: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "音乐-北京音乐广播",
+    "group": "中国广播",
+    "url": "http://cnlive.cnr.cn/hls/bjyygb.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.058,
+        "streams": [],
+        "error": "[tcp @ 0xb40ca8000] Failed to resolve hostname cnlive.cnr.cn: nodename nor servname provided, or not known\nhttp://cnlive.cnr.cn/hls/bjyygb.m3u8: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.037,
+        "streams": [],
+        "error": "[tcp @ 0x8c2cac000] Failed to resolve hostname cnlive.cnr.cn: nodename nor servname provided, or not known\nhttp://cnlive.cnr.cn/hls/bjyygb.m3u8: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "中国-北京体育广播",
+    "group": "中国广播",
+    "url": "http://cnlive.cnr.cn/hls/bjtygb.m3u8",
+    "genre": "体育",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.036,
+        "streams": [],
+        "error": "[tcp @ 0x804ca8000] Failed to resolve hostname cnlive.cnr.cn: nodename nor servname provided, or not known\nhttp://cnlive.cnr.cn/hls/bjtygb.m3u8: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.036,
+        "streams": [],
+        "error": "[tcp @ 0x8bb008400] Failed to resolve hostname cnlive.cnr.cn: nodename nor servname provided, or not known\nhttp://cnlive.cnr.cn/hls/bjtygb.m3u8: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "中国-ChineseMusicWorld",
+    "group": "中国广播",
+    "url": "https://radio.chinesemusicworld.com/chinesemusic.ogg",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 3.342,
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 2.753,
+        "streams": [
+          {
+            "codec_name": "vorbis",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "亳州交通音乐广播",
+    "group": "中国广播",
+    "url": "http://zbbf2.ahbztv.com/live/41c.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 1.48,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.121,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "经典105·山东经典音乐广播",
+    "group": "中国广播",
+    "url": "http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.798,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.119,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "山东音乐广播",
+    "group": "中国广播",
+    "url": "http://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.621,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.119,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "山西音乐广播",
+    "group": "中国广播",
+    "url": "http://cnlive.cnr.cn/hls/shanxiyinyueguangbo.m3u8",
+    "genre": "音乐",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 0.045,
+        "streams": [],
+        "error": "[tcp @ 0xb01008400] Failed to resolve hostname cnlive.cnr.cn: nodename nor servname provided, or not known\nhttp://cnlive.cnr.cn/hls/shanxiyinyueguangbo.m3u8: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.037,
+        "streams": [],
+        "error": "[tcp @ 0x70eca8000] Failed to resolve hostname cnlive.cnr.cn: nodename nor servname provided, or not known\nhttp://cnlive.cnr.cn/hls/shanxiyinyueguangbo.m3u8: Input/output error\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视伴音",
+    "group": "中国广播",
+    "url": "http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 3.137,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.124,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "东方卫视伴音",
+    "group": "中国广播",
+    "url": "http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8",
+    "genre": "电视直播",
+    "list_name": "初秋语•电台",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 3.126,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.126,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "CCTV-1综合",
+    "group": "央视频道",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?",
+    "genre": "电视直播",
+    "list_name": "FMM_IPV6",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.262,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.28,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "CCTV-5体育",
+    "group": "央视频道",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?",
+    "genre": "体育",
+    "list_name": "FMM_IPV6",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.313,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "mp2",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "ced\n[h264 @ 0xb72cf1180] no frame!\n[h264 @ 0xb72cf1180] non-existing PPS 0 referenced\n[h264 @ 0xb72cf1180] no frame!\n[NULL @ 0xb72cf0380] non-existing PPS 0 referenced\n[h264 @ 0xb72cf1180] non-existing PPS 0 referenced\n[h264 @ 0xb72cf1180] no frame!\n"
+      },
+      {
+        "ok": true,
+        "seconds": 0.197,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "mp2",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "ced\n[h264 @ 0x954cd1180] no frame!\n[h264 @ 0x954cd1180] non-existing PPS 0 referenced\n[h264 @ 0x954cd1180] no frame!\n[NULL @ 0x954cd0380] non-existing PPS 0 referenced\n[h264 @ 0x954cd1180] non-existing PPS 0 referenced\n[h264 @ 0x954cd1180] no frame!\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-5+体育赛事",
+    "group": "央视频道",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?",
+    "genre": "体育",
+    "list_name": "FMM_IPV6",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.224,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.217,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "CCTV-8电视剧",
+    "group": "央视频道",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?",
+    "genre": "电视直播",
+    "list_name": "FMM_IPV6",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.248,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "mp2",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "380] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] no frame!\n[NULL @ 0xbad0a4380] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] no frame!\n"
+      },
+      {
+        "ok": true,
+        "seconds": 0.223,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "mp2",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "380] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] no frame!\n[NULL @ 0xa290a0380] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] no frame!\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV-15音乐",
+    "group": "央视频道",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?",
+    "genre": "音乐",
+    "list_name": "FMM_IPV6",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.227,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.165,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 10.189,
+        "streams": [],
+        "error": "[tcp @ 0x7e5048000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 10.144,
+        "streams": [],
+        "error": "[tcp @ 0x83f044000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "group": "CCTV",
+    "url": "http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.09,
+        "streams": [],
+        "error": "[tcp @ 0x7e6ca8000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.101,
+        "streams": [],
+        "error": "[tcp @ 0x840c8c000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 10.147,
+        "streams": [],
+        "error": "[tcp @ 0x8db048000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 10.183,
+        "streams": [],
+        "error": "[tcp @ 0xbb5040000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV8",
+    "group": "CCTV",
+    "url": "http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.089,
+        "streams": [],
+        "error": "[tcp @ 0xb4ccb0000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.103,
+        "streams": [],
+        "error": "[tcp @ 0x722ca8000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.09,
+        "streams": [],
+        "error": "[tcp @ 0xc82cac000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.093,
+        "streams": [],
+        "error": "[tcp @ 0x978cac000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.105,
+        "streams": [],
+        "error": "[tcp @ 0x718cb0000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.101,
+        "streams": [],
+        "error": "[tcp @ 0x9b8c88000] Connection to tcp://39.134.66.110:80 failed: Operation timed out\nhttp://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0xbecca8000] Connection to tcp://39.134.66.48:80 failed: Operation timed out\nhttp://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.087,
+        "streams": [],
+        "error": "[tcp @ 0xb62ca8000] Connection to tcp://39.134.66.48:80 failed: Operation timed out\nhttp://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0xc78cb0000] Connection to tcp://39.134.67.226:80 failed: Operation timed out\nhttp://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0x741008400] Connection to tcp://39.134.67.226:80 failed: Operation timed out\nhttp://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV1",
+    "group": "CCTV",
+    "url": "http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.108,
+        "streams": [],
+        "error": "[tcp @ 0xb4aca8000] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0x8bacac000] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "group": "CCTV",
+    "url": "http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.086,
+        "streams": [],
+        "error": "[tcp @ 0xa48cac000] Connection to tcp://39.134.67.226:80 failed: Operation timed out\nhttp://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xadac8c000] Connection to tcp://39.134.67.226:80 failed: Operation timed out\nhttp://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "group": "CCTV",
+    "url": "http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.089,
+        "streams": [],
+        "error": "[tcp @ 0xb6b008480] Connection to tcp://39.134.65.179:80 failed: Operation timed out\nhttp://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0x907008400] Connection to tcp://39.134.65.179:80 failed: Operation timed out\nhttp://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "group": "CCTV",
+    "url": "http://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xbb1008400] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.086,
+        "streams": [],
+        "error": "[tcp @ 0x9e2c8c000] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5",
+    "group": "CCTV",
+    "url": "http://39.134.65.173/PLTV/88888888/224/3221225818/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xb66cb0000] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xca2ca8000] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225818/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.084,
+        "streams": [],
+        "error": "[tcp @ 0x762ca8000] Connection to tcp://39.134.66.66:80 failed: Operation timed out\nhttp://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0x754ca8000] Connection to tcp://39.134.66.66:80 failed: Operation timed out\nhttp://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0x823008400] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0x942c8c000] Connection to tcp://39.134.65.181:80 failed: Operation timed out\nhttp://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://39.134.65.173/PLTV/88888888/224/3221225507/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.087,
+        "streams": [],
+        "error": "[tcp @ 0x9c1008480] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.084,
+        "streams": [],
+        "error": "[tcp @ 0x978cac000] Connection to tcp://39.134.65.173:80 failed: Operation timed out\nhttp://39.134.65.173/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://39.134.65.183/PLTV/88888888/224/3221225507/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.085,
+        "streams": [],
+        "error": "[tcp @ 0xb24cac000] Connection to tcp://39.134.65.183:80 failed: Operation timed out\nhttp://39.134.65.183/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.09,
+        "streams": [],
+        "error": "[tcp @ 0xc6acac000] Connection to tcp://39.134.65.183:80 failed: Operation timed out\nhttp://39.134.65.183/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5+",
+    "group": "CCTV",
+    "url": "http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0x852c88000] Connection to tcp://39.134.65.175:80 failed: Operation timed out\nhttp://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xc84ca8000] Connection to tcp://39.134.65.175:80 failed: Operation timed out\nhttp://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV8",
+    "group": "CCTV",
+    "url": "http://39.134.65.183/PLTV/88888888/224/3221225795/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.089,
+        "streams": [],
+        "error": "[tcp @ 0xc39008400] Connection to tcp://39.134.65.183:80 failed: Operation timed out\nhttp://39.134.65.183/PLTV/88888888/224/3221225795/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0x93cc88000] Connection to tcp://39.134.65.183:80 failed: Operation timed out\nhttp://39.134.65.183/PLTV/88888888/224/3221225795/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV8",
+    "group": "CCTV",
+    "url": "http://39.134.65.177/PLTV/88888888/224/3221225795/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.087,
+        "streams": [],
+        "error": "[tcp @ 0x700ca8000] Connection to tcp://39.134.65.177:80 failed: Operation timed out\nhttp://39.134.65.177/PLTV/88888888/224/3221225795/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.084,
+        "streams": [],
+        "error": "[tcp @ 0xa1cca8000] Connection to tcp://39.134.65.177:80 failed: Operation timed out\nhttp://39.134.65.177/PLTV/88888888/224/3221225795/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "风云音乐",
+    "group": "CCTV",
+    "url": "http://42.176.185.28:9901/tsfile/live/1024_1.m3u8",
+    "genre": "音乐",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.087,
+        "streams": [],
+        "error": "[tcp @ 0x98ac88000] Connection to tcp://42.176.185.28:9901 failed: Operation timed out\nhttp://42.176.185.28:9901/tsfile/live/1024_1.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.085,
+        "streams": [],
+        "error": "[tcp @ 0x924cac000] Connection to tcp://42.176.185.28:9901 failed: Operation timed out\nhttp://42.176.185.28:9901/tsfile/live/1024_1.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.086,
+        "streams": [],
+        "error": "[tcp @ 0xb11008400] Connection to tcp://39.134.65.166:80 failed: Operation timed out\nhttp://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0x910c90000] Connection to tcp://39.134.65.166:80 failed: Operation timed out\nhttp://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.103,
+        "streams": [],
+        "error": "[tcp @ 0xb8aca8000] Connection to tcp://39.134.65.164:80 failed: Operation timed out\nhttp://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.102,
+        "streams": [],
+        "error": "[tcp @ 0x85ccac000] Connection to tcp://39.134.65.164:80 failed: Operation timed out\nhttp://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "北京卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.164/PLTV/88888888/224/3221225678/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.097,
+        "streams": [],
+        "error": "[tcp @ 0x834c44000] Connection to tcp://39.134.65.164:80 failed: Operation timed out\nhttp://39.134.65.164/PLTV/88888888/224/3221225678/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.1,
+        "streams": [],
+        "error": "[tcp @ 0xa30ca8000] Connection to tcp://39.134.65.164:80 failed: Operation timed out\nhttp://39.134.65.164/PLTV/88888888/224/3221225678/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "北京卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.166/PLTV/88888888/224/3221225678/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.086,
+        "streams": [],
+        "error": "[tcp @ 0xb91008400] Connection to tcp://39.134.65.166:80 failed: Operation timed out\nhttp://39.134.65.166/PLTV/88888888/224/3221225678/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.1,
+        "streams": [],
+        "error": "[tcp @ 0xb44cac000] Connection to tcp://39.134.65.166:80 failed: Operation timed out\nhttp://39.134.65.166/PLTV/88888888/224/3221225678/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.086,
+        "streams": [],
+        "error": "[tcp @ 0x7dd008400] Connection to tcp://39.134.65.208:80 failed: Operation timed out\nhttp://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.103,
+        "streams": [],
+        "error": "[tcp @ 0x766c8c000] Connection to tcp://39.134.65.208:80 failed: Operation timed out\nhttp://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "url": "http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.091,
+        "streams": [],
+        "error": "[tcp @ 0x80ecac000] Connection to tcp://39.134.66.2:80 failed: Operation timed out\nhttp://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.103,
+        "streams": [],
+        "error": "[tcp @ 0x96f008400] Connection to tcp://39.134.66.2:80 failed: Operation timed out\nhttp://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "东方卫视",
+    "group": "卫视",
+    "url": "http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.092,
+        "streams": [],
+        "error": "[tcp @ 0x7a8ca8000] Connection to tcp://39.134.65.208:80 failed: Operation timed out\nhttp://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.094,
+        "streams": [],
+        "error": "[tcp @ 0x73ac8c000] Connection to tcp://39.134.65.208:80 failed: Operation timed out\nhttp://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "湖南卫视",
+    "group": "卫视",
+    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 10.135,
+        "streams": [],
+        "error": "[tcp @ 0x805040000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 10.146,
+        "streams": [],
+        "error": "[tcp @ 0x807048000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "斗鱼体育1",
+    "group": "斗鱼",
+    "url": "http://epg.112114.xyz/douyu/10302182",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.416,
+        "streams": [],
+        "error": "[tcp @ 0x78b008400] Connection to tcp://epg.112114.xyz:80 failed: Operation timed out\nhttp://epg.112114.xyz/douyu/10302182: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.395,
+        "streams": [],
+        "error": "[tcp @ 0xb6aca8000] Connection to tcp://epg.112114.xyz:80 failed: Operation timed out\nhttp://epg.112114.xyz/douyu/10302182: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "斗鱼体育2",
+    "group": "斗鱼",
+    "url": "http://epg.112114.xyz/douyu/9170147",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.407,
+        "streams": [],
+        "error": "[tcp @ 0x7cf008400] Connection to tcp://epg.112114.xyz:80 failed: Operation timed out\nhttp://epg.112114.xyz/douyu/9170147: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.397,
+        "streams": [],
+        "error": "[tcp @ 0x984cac000] Connection to tcp://epg.112114.xyz:80 failed: Operation timed out\nhttp://epg.112114.xyz/douyu/9170147: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV8K",
+    "group": "肥羊4K-8K",
+    "url": "http://159.75.85.63:8765/xxtv8k.php",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.099,
+        "streams": [],
+        "error": "[tcp @ 0xb6b008400] Connection to tcp://159.75.85.63:8765 failed: Operation timed out\nhttp://159.75.85.63:8765/xxtv8k.php: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.09,
+        "streams": [],
+        "error": "[tcp @ 0x8e4c88000] Connection to tcp://159.75.85.63:8765 failed: Operation timed out\nhttp://159.75.85.63:8765/xxtv8k.php: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV8K-50FPS",
+    "group": "肥羊4K-8K",
+    "url": "http://159.75.85.63:8654/xx8k50fps.php",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.099,
+        "streams": [],
+        "error": "[tcp @ 0xbad008400] Connection to tcp://159.75.85.63:8654 failed: Operation timed out\nhttp://159.75.85.63:8654/xx8k50fps.php: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.102,
+        "streams": [],
+        "error": "[tcp @ 0xa15008400] Connection to tcp://159.75.85.63:8654 failed: Operation timed out\nhttp://159.75.85.63:8654/xx8k50fps.php: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "咪咕体育-4K-HLG源",
+    "group": "肥羊4K-8K",
+    "url": "http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 1.516,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 1.266,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "咪咕体育-4K源-2",
+    "group": "肥羊4K-8K",
+    "url": "http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": true,
+        "seconds": 0.531,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.408,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ]
+  },
+  {
+    "name": "CCTV8K测试",
+    "group": "肥羊4K-8K",
+    "url": "http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.086,
+        "streams": [],
+        "error": ": Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.1,
+        "streams": [],
+        "error": ": Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV1-4K",
+    "group": "肥羊4K-8K",
+    "url": "http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.106,
+        "streams": [],
+        "error": "[tcp @ 0x8c1064000] Connection to tcp://[2409:8087:2001:20:2800:0:df6e:eb02]:80 failed: Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xbe7068000] Connection to tcp://[2409:8087:2001:20:2800:0:df6e:eb02]:80 failed: Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV5-4K",
+    "group": "肥羊4K-8K",
+    "url": "http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.101,
+        "streams": [],
+        "error": "[tcp @ 0x8c1064000] Connection to tcp://[2409:8087:2001:20:2800:0:df6e:eb22]:80 failed: Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.081,
+        "streams": [],
+        "error": "[tcp @ 0x8b1064000] Connection to tcp://[2409:8087:2001:20:2800:0:df6e:eb22]:80 failed: Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "CCTV8-4K",
+    "group": "肥羊4K-8K",
+    "url": "http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8",
+    "genre": "电视直播",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.103,
+        "streams": [],
+        "error": "[tcp @ 0x727068000] Connection to tcp://[2409:8087:2001:20:2800:0:df6e:eb26]:80 failed: Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.084,
+        "streams": [],
+        "error": "[tcp @ 0xbbd068000] Connection to tcp://[2409:8087:2001:20:2800:0:df6e:eb26]:80 failed: Operation timed out\nhttp://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "超级体育",
+    "group": "NewTV",
+    "url": "http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8?blog.ntnas.top",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.084,
+        "streams": [],
+        "error": "[tcp @ 0x75ecb0000] Connection to tcp://39.135.138.58:18890 failed: Operation timed out\nhttp://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8?blog.ntnas.top: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.079,
+        "streams": [],
+        "error": "[tcp @ 0x822c88000] Connection to tcp://39.135.138.58:18890 failed: Operation timed out\nhttp://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8?blog.ntnas.top: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "NewTV超级体育",
+    "group": "NewTV",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xc0cca8000] Connection to tcp://39.134.66.66:80 failed: Operation timed out\nhttp://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.082,
+        "streams": [],
+        "error": "[tcp @ 0x857008400] Connection to tcp://39.134.66.66:80 failed: Operation timed out\nhttp://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "NewTV超级体育",
+    "group": "NewTV",
+    "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.115,
+        "streams": [],
+        "error": "[tcp @ 0x8d5008400] Connection to tcp://39.135.138.59:18890 failed: Operation timed out\nhttp://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.098,
+        "streams": [],
+        "error": "[tcp @ 0xbaccac000] Connection to tcp://39.135.138.59:18890 failed: Operation timed out\nhttp://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "NewTV超级体育",
+    "group": "NewTV",
+    "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.083,
+        "streams": [],
+        "error": "[tcp @ 0xbbaca8000] Connection to tcp://39.135.138.59:18890 failed: Operation timed out\nhttp://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.099,
+        "streams": [],
+        "error": "[tcp @ 0xc32ca8000] Connection to tcp://39.135.138.59:18890 failed: Operation timed out\nhttp://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "NewTV超级体育",
+    "group": "NewTV",
+    "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.086,
+        "streams": [],
+        "error": "[tcp @ 0x9b9008400] Connection to tcp://39.135.138.60:18890 failed: Operation timed out\nhttp://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0x9f7008400] Connection to tcp://39.135.138.60:18890 failed: Operation timed out\nhttp://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "NewTV精品体育",
+    "group": "NewTV",
+    "url": "http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 5.088,
+        "streams": [],
+        "error": "[tcp @ 0x846c90000] Connection to tcp://39.135.138.60:18890 failed: Operation timed out\nhttp://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 5.095,
+        "streams": [],
+        "error": "[tcp @ 0xb09008480] Connection to tcp://39.135.138.60:18890 failed: Operation timed out\nhttp://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "百视通体育",
+    "group": "NewTV",
+    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 10.138,
+        "streams": [],
+        "error": "[tcp @ 0x737044000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8: Operation timed out\n"
+      },
+      {
+        "ok": false,
+        "seconds": 10.145,
+        "streams": [],
+        "error": "[tcp @ 0xb85048000] Connection to tcp://dbiptv.sn.chinamobile.com:80 failed: Operation timed out\nhttp://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8: Operation timed out\n"
+      }
+    ]
+  },
+  {
+    "name": "GOODTV经典音乐河",
+    "group": "世界",
+    "url": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8",
+    "genre": "音乐",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 1.288,
+        "streams": [],
+        "error": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8: Server returned 403 Forbidden (access denied)\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.256,
+        "streams": [],
+        "error": "https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8: Server returned 403 Forbidden (access denied)\n"
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "group": "世界",
+    "url": "http://51.210.199.24/hls/stream.m3u8",
+    "genre": "音乐",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 1.055,
+        "streams": [],
+        "error": "http://51.210.199.24/hls/stream.m3u8: Server returned 404 Not Found\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.341,
+        "streams": [],
+        "error": "http://51.210.199.24/hls/stream.m3u8: Server returned 404 Not Found\n"
+      }
+    ]
+  },
+  {
+    "name": "印尼-TVRISports",
+    "group": "世界",
+    "url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
+    "genre": "体育",
+    "list_name": "list.m3u",
+    "attempts": [
+      {
+        "ok": false,
+        "seconds": 6.611,
+        "streams": [],
+        "error": "[tcp @ 0x907008400] Failed to resolve hostname wpc.d1627.nucdn.net: nodename nor servname provided, or not known\nhttp://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8: Input/output error\n"
+      },
+      {
+        "ok": false,
+        "seconds": 0.059,
+        "streams": [],
+        "error": "[tcp @ 0x83aca8000] Failed to resolve hostname wpc.d1627.nucdn.net: nodename nor servname provided, or not known\nhttp://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8: Input/output error\n"
+      }
+    ]
+  }
+]

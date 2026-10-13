@@ -1,0 +1,272 @@
+[
+  {
+    "name": "CCTV-8 主用（IPv6）",
+    "genre": "电视直播",
+    "role": "primary",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?",
+    "origin_list": "FMM_IPV6",
+    "probe_attempts": [
+      {
+        "ok": true,
+        "seconds": 0.248,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "mp2",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "380] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] no frame!\n[NULL @ 0xbad0a4380] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] non-existing PPS 0 referenced\n[h264 @ 0xbad0a5180] no frame!\n"
+      },
+      {
+        "ok": true,
+        "seconds": 0.223,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "mp2",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "380] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] no frame!\n[NULL @ 0xa290a0380] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] non-existing PPS 0 referenced\n[h264 @ 0xa290a1180] no frame!\n"
+      }
+    ],
+    "decode": {
+      "returncode": 0,
+      "seconds": 1.01,
+      "duration_s": 5,
+      "stderr": "[NULL @ 0x8bcc98380] non-existing PPS 0 referenced\n[h264 @ 0x8bcc99180] non-existing PPS 0 referenced\n[h264 @ 0x8bcc99180] no frame!\n"
+    }
+  },
+  {
+    "name": "CCTV-8 备用（IPv4）",
+    "genre": "电视直播",
+    "role": "backup",
+    "url": "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "origin_list": "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+    "probe_attempts": [
+      {
+        "ok": true,
+        "seconds": 1.546,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 1.086,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ],
+    "decode": {
+      "returncode": 0,
+      "seconds": 5.376,
+      "duration_s": 5,
+      "stderr": ""
+    }
+  },
+  {
+    "name": "CCTV-5+ 主用（IPv6）",
+    "genre": "体育",
+    "role": "primary",
+    "url": "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?",
+    "origin_list": "FMM_IPV6",
+    "probe_attempts": [
+      {
+        "ok": true,
+        "seconds": 0.224,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.217,
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ],
+    "decode": {
+      "returncode": 0,
+      "seconds": 0.754,
+      "duration_s": 5,
+      "stderr": ""
+    }
+  },
+  {
+    "name": "CCTV-5+ 备用（IPv4）",
+    "genre": "体育",
+    "role": "backup",
+    "url": "http://120.76.248.139/live/bfgd/4200000246.m3u8",
+    "origin_list": "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+    "probe_attempts": [
+      {
+        "ok": true,
+        "seconds": 0.385,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "ac3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "PS 0 referenced\n[h264 @ 0x8df409180] no frame!\n[NULL @ 0x8df408380] non-existing PPS 0 referenced\n[h264 @ 0x8df409180] non-existing PPS 0 referenced\n[h264 @ 0x8df409180] no frame!\n"
+      },
+      {
+        "ok": true,
+        "seconds": 0.373,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "codec_name": "ac3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": "PS 0 referenced\n[h264 @ 0x730025180] no frame!\n[NULL @ 0x730024380] non-existing PPS 0 referenced\n[h264 @ 0x730025180] non-existing PPS 0 referenced\n[h264 @ 0x730025180] no frame!\n"
+      }
+    ],
+    "decode": {
+      "returncode": 0,
+      "seconds": 0.934,
+      "duration_s": 5,
+      "stderr": "xa890bd180] non-existing PPS 0 referenced\n[h264 @ 0xa890bd180] no frame!\n[NULL @ 0xa890bc380] non-existing PPS 0 referenced\n[h264 @ 0xa890bd180] non-existing PPS 0 referenced\n[h264 @ 0xa890bd180] no frame!\n[null @ 0xa88c28500] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 187392 >= 187392\n    Last message repeated 1 times\n[h264 @ 0xa89184000] left block unavailable for requested intra mode\n[h264 @ 0xa89184000] error while decoding MB 0 38, bytestream 45561\n"
+    }
+  },
+  {
+    "name": "清晨音乐台",
+    "genre": "音乐电台",
+    "role": "primary",
+    "url": "http://lhttp.qingting.fm/live/4915/64k.mp3",
+    "origin_list": "初秋语•电台",
+    "probe_attempts": [
+      {
+        "ok": true,
+        "seconds": 0.446,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.619,
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ],
+    "decode": {
+      "returncode": 0,
+      "seconds": 0.812,
+      "duration_s": 5,
+      "stderr": ""
+    }
+  },
+  {
+    "name": "江苏音乐广播",
+    "genre": "音乐电台",
+    "role": "backup",
+    "url": "http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8",
+    "origin_list": "初秋语•电台",
+    "probe_attempts": [
+      {
+        "ok": true,
+        "seconds": 3.131,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      },
+      {
+        "ok": true,
+        "seconds": 0.122,
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "error": ""
+      }
+    ],
+    "decode": {
+      "returncode": 0,
+      "seconds": 3.69,
+      "duration_s": 5,
+      "stderr": ""
+    }
+  }
+]

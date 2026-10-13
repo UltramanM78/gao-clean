@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-13",
+  "scope": "public playlist checks and sampled stream probes; not complete channel census",
+  "playlist_results": [
+    {
+      "name": "初秋语",
+      "url": "./list.txt",
+      "channels": 202,
+      "error": null
+    },
+    {
+      "name": "YanG•综合",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='tv.iill.top', port=443): Max retries exceeded with url: /m3u/Gather (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at"
+    },
+    {
+      "name": "平台直播",
+      "url": "https://tv.iill.top/m3u/Live",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='tv.iill.top', port=443): Max retries exceeded with url: /m3u/Live (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0"
+    },
+    {
+      "name": "YanG•体育",
+      "url": "https://tv.iill.top/m3u/Sport",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='tv.iill.top', port=443): Max retries exceeded with url: /m3u/Sport (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at "
+    },
+    {
+      "name": "范明明•ipv6",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='live.fanmingming.com', port=443): Max retries exceeded with url: /tv/m3u/ipv6.m3u (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnec"
+    },
+    {
+      "name": "YueChan•综合",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='github.moeyy.xyz', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u (Caused by ConnectTim"
+    },
+    {
+      "name": "Yoursmile•综合",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "channels": 0,
+      "error": "ValueError: HTML_NOT_PLAYLIST"
+    },
+    {
+      "name": "IPV4",
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
+      "channels": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='ghp.ci', port=443): Max retries exceeded with url: /raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u (Caused by NameR"
+    },
+    {
+      "name": "肥猫•综合",
+      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "channels": 0,
+      "error": "HTTPError: 404 Client Error: Not Found for url: http://xn--ihqu10cn4c.xn--z7x900a.live/TV/tvzb.txt"
+    },
+    {
+      "name": "Ray",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='github.moeyy.xyz', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt (Caused by ConnectTimeou"
+    },
+    {
+      "name": "俊于•综合",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "channels": 0,
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: http://home.jundie.top:81/Cat/tv/live.txt"
+    },
+    {
+      "name": "初秋语•电台",
+      "url": "./radio.txt",
+      "channels": 1478,
+      "error": null
+    },
+    {
+      "name": "范明明•电台1",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='github.moeyy.xyz', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u (Caused b"
+    },
+    {
+      "name": "范明明•电台2",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='github.moeyy.xyz', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u (Cause"
+    },
+    {
+      "name": "16万•MV",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='github.moeyy.xyz', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/lystv/short/main/%E5%BD%B1%E8%A7%86/tvb/MTV.txt "
+    },
+    {
+      "name": "YuanHsing•油管",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
+      "channels": 0,
+      "error": "ConnectTimeout: HTTPSConnectionPool(host='github.moeyy.xyz', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u (Cause"
+    },
+    {
+      "name": "PG•油管",
+      "url": "./yo21.txt",
+      "channels": 4,
+      "error": null
+    },
+    {
+      "name": "IPV6①",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "channels": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='ghp.ci', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u (Caused b"
+    },
+    {
+      "name": "IPV6②",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "channels": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='ghp.ci', port=443): Max retries exceeded with url: /https://raw.githubusercontent.com/wwb521/live/main/tv.m3u (Caused by NameResolutionError(\"<u"
+    },
+    {
+      "name": "本地live文件",
+      "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
+      "channels": 0,
+      "error": "LOCAL_TV_REQUIRED"
+    },
+    {
+      "name": "FMM_IPV6",
+      "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
+      "channels": 82,
+      "error": null
+    },
+    {
+      "name": "radio.m3u",
+      "url": "./radio.m3u",
+      "channels": 1478,
+      "error": null
+    },
+    {
+      "name": "list.m3u",
+      "url": "./list.m3u",
+      "channels": 824,
+      "error": null
+    }
+  ],
+  "recovered_original_github_lists": [
+    {
+      "name": "YueChan•综合",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "status": 200,
+      "error": null
+    },
+    {
+      "name": "IPV4",
+      "url": "https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
+      "status": null,
+      "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u"
+    },
+    {
+      "name": "Ray",
+      "url": "https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "status": 200,
+      "error": null
+    },
+    {
+      "name": "范明明•电台1",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u",
+      "status": 200,
+      "error": null
+    },
+    {
+      "name": "范明明•电台2",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+      "status": 200,
+      "error": null
+    },
+    {
+      "name": "16万•MV",
+      "url": "https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "status": 200,
+      "error": null
+    },
+    {
+      "name": "YuanHsing•油管",
+      "url": "https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
+      "status": 200,
+      "error": null
+    },
+    {
+      "name": "IPV6①",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "status": 200,
+      "error": null
+    },
+    {
+      "name": "IPV6②",
+      "url": "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "status": 200,
+      "error": null
+    }
+  ],
+  "base_candidate_count": 116,
+  "recovered_candidate_count": 19,
+  "note": "Both attempts must contain VIDEO for TV/sports selection; audio-only station streams were not counted as video."
+}

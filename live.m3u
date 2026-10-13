@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="电视直播",CCTV-8 主用（IPv6）
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
+#EXTINF:-1 group-title="电视直播",CCTV-8 备用（IPv4）
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育",CCTV-5+ 主用（IPv6）
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
+#EXTINF:-1 group-title="体育",CCTV-5+ 备用（IPv4）
+http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 group-title="音乐电台",清晨音乐台
+http://lhttp.qingting.fm/live/4915/64k.mp3
+#EXTINF:-1 group-title="音乐电台",江苏音乐广播
+http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8

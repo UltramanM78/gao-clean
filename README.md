@@ -15,7 +15,7 @@ https://cdn.jsdelivr.net/gh/UltramanM78/gao-clean@master/clean.json
 https://raw.githubusercontent.com/UltramanM78/gao-clean/master/clean.json
 ```
 
-使用 FongMi 设置中的点播配置导入。仅三个标准 JSON CMS 接口，无 JAR、JS、账号、网盘登录、壁纸或解析服务依赖。未添加自定义 DoH、代理或来源宣传条目。iOS 播放器仍需支持 TVBox type=1 配置；不承诺任意 iOS 播放器均兼容。
+使用 FongMi 设置中的点播配置导入。点播包含三个标准 JSON CMS 接口，直播列表另有电视、体育、音乐电台三组共六个入口；均无 JAR、JS、账号、网盘登录、壁纸或解析服务依赖。未添加自定义 DoH、代理或来源宣传条目。iOS 播放器仍需支持 TVBox type=1 配置；不承诺任意 iOS 播放器均兼容。
 
 ## 如何选主用和备用
 
@@ -55,3 +55,23 @@ python3 audit_decode.py --out audit
 ## 上游与更新
 
 保留原仓库文件作为对照；电视只导入 `clean.json`。上游说明保存在 [UPSTREAM_README.md](UPSTREAM_README.md)。同步上游不等于更新精简配置；新增接口必须重新验证。没有设置定时任务或自动发布流程。
+
+## 电视直播、体育、音乐电台（2026-10-13 补充）
+
+在播放器的直播页面使用“精选电视·体育·音乐电台”。如点播配置没有同步到直播设置，可在直播配置单独填入：
+
+```text
+https://fastly.jsdelivr.net/gh/UltramanM78/gao-clean@master/live.m3u
+```
+
+| 用途 | 主用 | 备用 |
+|---|---|---|
+| 电视直播 | CCTV-8 IPv6 | CCTV-8 IPv4 |
+| 体育视频 | CCTV-5+ IPv6 | CCTV-5+ IPv4 |
+| 音乐电台 | 清晨音乐台 | 江苏音乐广播 |
+
+电视、体育优先地址需要家中IPv6可用；失败时手动选IPv4入口。音乐两个入口播不同节目，“备用”仅指有另一电台可听，不能续播同一歌曲。CCTV-5+节目以频道实时安排为准，不保证有某场比赛。音乐点歌、MV和其他JAR/JS功能仍未验证。
+
+六个入口均经过两次媒体探测和五秒解码抽查。CCTV-8 IPv6及CCTV-5+ IPv4出现启动/时间戳/解码警告，后者优先级较低；退出码为0不表示全程无错误。没有在用户电视或其家庭网络测试，也未做长时间稳定性测试。
+
+详细证据：[直播扩展报告](LIVE_AUDIT.md)、[入选入口测试](live-selected-tests.json)。
